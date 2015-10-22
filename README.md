@@ -34,6 +34,7 @@ There are a variety of initiatives underway to migrate security and compliance i
 
 * [Compliance at Velocity (CATV)](https://github.com/dromologue/CATV)
 * [Rugged DevOps](http://www.ruggedsoftware.org)
+* [AWS Labs](https://github.com/awslabs)
 
 #Tools
 This collection of tools are useful in establishing a DevSecOps platform.  We have divided the tools into several categories that help with the different divisions of DevSecOps.
