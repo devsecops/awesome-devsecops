@@ -42,6 +42,7 @@ A body of knowledge for combining DevOps and Security has been delivered via con
 * [RSA Conference](http://www.rsaconference.com)
 * [Goto Conference](http://gotocon.com)
 * [DevSecCon](http://devseccon.com)
+* [ISACA Ireland](http://www.isaca.org/chapters5/Ireland/conference/pages/Agenda.aspx)
 
 #Tools
 This collection of tools are useful in establishing a DevSecOps platform.  We have divided the tools into several categories that help with the different divisions of DevSecOps.
