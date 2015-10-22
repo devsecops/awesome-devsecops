@@ -11,6 +11,7 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
 - [Information](#information)
   - [Presentations](#presentations)
   - [Initiatives](#initiatives)
+  - [Conferences](#conferences)
 - [Tools](#tools)
   - [Dashboards](#dashboards)
   - [Hunting](#hunting)
