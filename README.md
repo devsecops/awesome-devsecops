@@ -35,6 +35,14 @@ There are a variety of initiatives underway to migrate security and compliance i
 * [Compliance at Velocity (CATV)](https://github.com/dromologue/CATV)
 * [Rugged DevOps](http://www.ruggedsoftware.org)
 
+##Conferences
+A body of knowledge for combining DevOps and Security has been delivered via conferences and meetups.  This is a short list of the venues that have dedicated a portion of their agenda to it.
+
+* [AWS re:Invent](https://reinvent.awsevents.com)
+* [RSA Conference](http://www.rsaconference.com)
+* [Goto Conference](http://gotocon.com)
+* [DevSecCon](http://devseccon.com)
+
 #Tools
 This collection of tools are useful in establishing a DevSecOps platform.  We have divided the tools into several categories that help with the different divisions of DevSecOps.
 
