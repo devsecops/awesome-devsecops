@@ -14,6 +14,7 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
   - [Conferences](#conferences)
 - [Tools](#tools)
   - [Dashboards](#dashboards)
+  - [Automation](#automation)
   - [Hunting](#hunting)
   - [Testing](#testing)
   - [Alerting](#alerting)
@@ -53,6 +54,11 @@ This collection of tools are useful in establishing a DevSecOps platform.  We ha
 Visualization is an important element of identifying, sharing and evolving the security information that passes from the beginning of the creative process through to operations.
 
 * [Kibana](https://www.elastic.co/products/kibana)
+
+##Automation
+Automation platforms have an advantage of providing for scripted remediation when security defects are surfaced.
+
+* [StackStorm](https://github.com/StackStorm/st2)
 
 ##Hunting
 This list of tools provide the capabilities necessary for finding security anomalies and identifying rules that should be automated and extended to support scale demands.
