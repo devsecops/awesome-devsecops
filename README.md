@@ -79,14 +79,4 @@ Once you discover something important, response time is critical and essential t
 There are many sources for Threat Intelligence in the world.  Some of these come from IP Intelligence and others from Malware repositories.  This category contains tools that are useful in capturing threat intelligence and collating it.
 
 * [OpenTPX](https://www.opentpx.org)
-
-
-
-
-
-
-
-
-
-
-
+* [Passive Total](https://www.passivetotal.org)
