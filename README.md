@@ -12,6 +12,7 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
   - [Presentations](#presentations)
   - [Initiatives](#initiatives)
   - [Conferences](#conferences)
+  - [Training](#training)
 - [Tools](#tools)
   - [Dashboards](#dashboards)
   - [Automation](#automation)
@@ -47,6 +48,11 @@ A body of knowledge for combining DevOps and Security has been delivered via con
 * [Goto Conference](http://gotocon.com)
 * [DevSecCon](http://devseccon.com)
 * [ISACA Ireland](http://www.isaca.org/chapters5/Ireland/conference/pages/Agenda.aspx)
+
+## Training
+DevSecOps requires an appetite for learning and agility in acquiring new skills.  We've collected these links to help you learn how to do DevSecOps with us.
+
+* [Pentester Lab](https://pentesterlab.com/exercises/)
 
 # Tools
 This collection of tools are useful in establishing a DevSecOps platform.  We have divided the tools into several categories that help with the different divisions of DevSecOps.
