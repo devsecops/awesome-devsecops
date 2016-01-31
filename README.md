@@ -53,6 +53,7 @@ A body of knowledge for combining DevOps and Security has been delivered via con
 DevSecOps requires an appetite for learning and agility in acquiring new skills.  We've collected these links to help you learn how to do DevSecOps with us.
 
 * [Pentester Lab](https://pentesterlab.com/exercises/)
+* [Infosec Labs](http://www.thehonz.com/category/infoseclabs/)
 
 # Tools
 This collection of tools are useful in establishing a DevSecOps platform.  We have divided the tools into several categories that help with the different divisions of DevSecOps.
