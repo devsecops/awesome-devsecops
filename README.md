@@ -83,6 +83,8 @@ There are many sources for Threat Intelligence in the world.  Some of these come
 * [Passive Total](https://www.passivetotal.org)
 
 ## Secret Management
+To support security as code, sensitive credentials and secrets need to be managed, security, maintained and rotated using automation.  The projects below provide DevOps teams with some good options for securing sensitive details used in building and deploying full stack software deployments.
+
 * [Vault](https://www.hashicorp.com/blog/vault.html)
 * [BlackBox](https://github.com/StackExchange/blackbox)
 * [Transcrypt](https://github.com/elasticdog/transcrypt)
