@@ -94,4 +94,4 @@ To support security as code, sensitive credentials and secrets need to be manage
 
 * [Vault](https://www.hashicorp.com/blog/vault.html)
 * [BlackBox](https://github.com/StackExchange/blackbox)
-* [Transcrypt](https://github.com/elasticdog/transcrypt)
+* [Transcrypt](https://github.com/elasticdog/transcrypt) 
