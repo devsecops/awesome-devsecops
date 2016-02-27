@@ -53,7 +53,7 @@ A body of knowledge for combining DevOps and Security has been delivered via con
 DevSecOps requires an appetite for learning and agility in acquiring new skills.  We've collected these links to help you learn how to do DevSecOps with us.
 
 * [Pentester Lab](https://pentesterlab.com/exercises/)
-* [Infoseclabs](http://www.thehonz.com/category/infoseclabs/)
+* [Infoseclabs](http://www.infoseclabs.net)
 * [Vulnhub](https://www.vulnhub.com/)
 * [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10)
 * [Metasploitable](https://community.rapid7.com/docs/DOC-1875)
