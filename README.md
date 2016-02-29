@@ -53,7 +53,10 @@ A body of knowledge for combining DevOps and Security has been delivered via con
 DevSecOps requires an appetite for learning and agility in acquiring new skills.  We've collected these links to help you learn how to do DevSecOps with us.
 
 * [Pentester Lab](https://pentesterlab.com/exercises/)
-* [Infosec Labs](http://www.thehonz.com/category/infoseclabs/)
+* [Infoseclabs](http://www.infoseclabs.net)
+* [Vulnhub](https://www.vulnhub.com/)
+* [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10)
+* [Metasploitable](https://community.rapid7.com/docs/DOC-1875)
 
 # Tools
 This collection of tools are useful in establishing a DevSecOps platform.  We have divided the tools into several categories that help with the different divisions of DevSecOps.
@@ -94,4 +97,4 @@ To support security as code, sensitive credentials and secrets need to be manage
 
 * [Vault](https://www.hashicorp.com/blog/vault.html)
 * [BlackBox](https://github.com/StackExchange/blackbox)
-* [Transcrypt](https://github.com/elasticdog/transcrypt) 
+* [Transcrypt](https://github.com/elasticdog/transcrypt)
