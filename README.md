@@ -20,6 +20,7 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
   - [Testing](#testing)
   - [Alerting](#alerting)
   - [Threat Intelligence](#threat-intelligence)
+  - [Attack Modeling](#attack-modeling)
   - [Secret Management](#secret-management)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -91,6 +92,11 @@ There are many sources for Threat Intelligence in the world.  Some of these come
 
 * [OpenTPX](https://www.opentpx.org)
 * [Passive Total](https://www.passivetotal.org)
+ 
+## Attack Modeling
+DevSecOps requires a common attack modeling capability that can be done at speed and scale.  Thankfully there are efforts underway to create these useful taxonomies that help us operationalize attack modeling and defenses.
+
+* [CAPEC](https://capec.mitre.org)
 
 ## Secret Management
 To support security as code, sensitive credentials and secrets need to be managed, security, maintained and rotated using automation.  The projects below provide DevOps teams with some good options for securing sensitive details used in building and deploying full stack software deployments.
