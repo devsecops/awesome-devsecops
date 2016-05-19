@@ -59,6 +59,22 @@ DevSecOps requires an appetite for learning and agility in acquiring new skills.
 * [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10)
 * [Metasploitable](https://community.rapid7.com/docs/DOC-1875)
 
+## Podcasts
+A small collection of DevOps and Security podcasts.
+
+* [Social Engineering Podcast](http://www.social-engineer.org/category/podcast/)
+* [Trusted Sec Podcast](https://www.trustedsec.com/podcast/)
+* [Defensive Security Podcast](http://www.defensivesecurity.org/)
+* [Brakeing Down Security Podcast](http://www.brakeingsecurity.com/)
+* [Tenable Security Podcast](http://www.tenable.com/podcast)
+* [Down The Security Rabbithole](http://podcast.wh1t3rabbit.net/)
+* [OWASP 24/7](https://www.owasp.org/index.php/OWASP_Podcast)
+* [Take 1 Security Podcast](https://danielmiessler.com/podcast/)
+* [Arrested DevOps](https://www.arresteddevops.com/)
+* [DevOps Cafe](http://devopscafe.org/)
+* [Food Fight Show](http://foodfightshow.org/)
+* [The Ship Show](http://theshipshow.com/)
+
 # Tools
 This collection of tools are useful in establishing a DevSecOps platform.  We have divided the tools into several categories that help with the different divisions of DevSecOps.
 
@@ -92,7 +108,7 @@ There are many sources for Threat Intelligence in the world.  Some of these come
 
 * [OpenTPX](https://www.opentpx.org)
 * [Passive Total](https://www.passivetotal.org)
- 
+
 ## Attack Modeling
 DevSecOps requires a common attack modeling capability that can be done at speed and scale.  Thankfully there are efforts underway to create these useful taxonomies that help us operationalize attack modeling and defenses.
 
