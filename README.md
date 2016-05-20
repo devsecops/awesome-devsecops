@@ -13,6 +13,7 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
   - [Initiatives](#initiatives)
   - [Conferences](#conferences)
   - [Training](#training)
+  - [Podcasts](#podcasts)
 - [Tools](#tools)
   - [Dashboards](#dashboards)
   - [Automation](#automation)
