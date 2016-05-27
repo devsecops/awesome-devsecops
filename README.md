@@ -59,7 +59,7 @@ DevSecOps requires an appetite for learning and agility in acquiring new skills.
 * [Vulnhub](https://www.vulnhub.com/)
 * [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10)
 * [Metasploitable](https://community.rapid7.com/docs/DOC-1875)
-* [DevSecOps Bootcamp](https://github.com/devsecops/awesome-devsecops)
+* [DevSecOps Bootcamp](https://github.com/devsecops/bootcamp)
 
 ## Podcasts
 A small collection of DevOps and Security podcasts.
