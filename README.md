@@ -14,6 +14,7 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
   - [Conferences](#conferences)
   - [Training](#training)
   - [Podcasts](#podcasts)
+  - [Sharing](#sharing)
 - [Tools](#tools)
   - [Dashboards](#dashboards)
   - [Automation](#automation)
@@ -38,9 +39,9 @@ Many talks are now targeting the change of adding Security into the DevOps envir
 ## Initiatives
 There are a variety of initiatives underway to migrate security and compliance into DevOps.  We've included links for active projects here:
 
-* [Compliance at Velocity (CATV)](https://github.com/dromologue/CATV)
 * [Rugged DevOps](http://www.ruggedsoftware.org)
 * [AWS Labs](https://github.com/awslabs)
+* [DevOps Audit Defense Toolkit](https://plus.google.com/communities/103372669680429508474)
 
 ## Conferences
 A body of knowledge for combining DevOps and Security has been delivered via conferences and meetups.  This is a short list of the venues that have dedicated a portion of their agenda to it.
@@ -50,6 +51,8 @@ A body of knowledge for combining DevOps and Security has been delivered via con
 * [Goto Conference](http://gotocon.com)
 * [DevSecCon](http://devseccon.com)
 * [ISACA Ireland](http://www.isaca.org/chapters5/Ireland/conference/pages/Agenda.aspx)
+* [DevOps Connect](http://www.devopsconnect.com/)
+* [DevOps Days](http://www.devopsdays.org/)
 
 ## Training
 DevSecOps requires an appetite for learning and agility in acquiring new skills.  We've collected these links to help you learn how to do DevSecOps with us.
@@ -76,6 +79,11 @@ A small collection of DevOps and Security podcasts.
 * [DevOps Cafe](http://devopscafe.org/)
 * [Food Fight Show](http://foodfightshow.org/)
 * [The Ship Show](http://theshipshow.com/)
+
+## Sharing
+A collection of tools to help with sharing knowledge and telling the story.
+
+* [Speaker Deck](https://speakerdeck.com)
 
 # Tools
 This collection of tools are useful in establishing a DevSecOps platform.  We have divided the tools into several categories that help with the different divisions of DevSecOps.
