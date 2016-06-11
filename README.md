@@ -84,6 +84,7 @@ A small collection of DevOps and Security podcasts.
 A collection of tools to help with sharing knowledge and telling the story.
 
 * [Speaker Deck](https://speakerdeck.com)
+* [Ruby Weekly](http://rubyweekly.com)
 
 # Tools
 This collection of tools are useful in establishing a DevSecOps platform.  We have divided the tools into several categories that help with the different divisions of DevSecOps.
