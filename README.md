@@ -109,6 +109,9 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 
 * [Gauntlt](http://gauntlt.org/)
 * [Chef Inspec](https://github.com/chef/inspec)
+* [Snyk](https://snyk.io)
+* [Hakiri](https://hakiri.io)
+* [Brakeman](http://brakemanscanner.org)
 
 ## Alerting
 Once you discover something important, response time is critical and essential to the Incident Response required to remediate a security defect.  These links include some of the projects that provide for Alerting and Notifications.
