@@ -24,6 +24,7 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
   - [Threat Intelligence](#threat-intelligence)
   - [Attack Modeling](#attack-modeling)
   - [Secret Management](#secret-management)
+  - [Red Team](#red-team)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -137,3 +138,8 @@ To support security as code, sensitive credentials and secrets need to be manage
 * [Vault](https://www.hashicorp.com/blog/vault.html)
 * [BlackBox](https://github.com/StackExchange/blackbox)
 * [Transcrypt](https://github.com/elasticdog/transcrypt)
+
+## Red Team
+These are tools that we find helpful during Red Team and War Game exercises.  The projects in this section help with reconnaissance, exploit development, and other activities common within the Kill Chain.
+
+* [Hound](https://github.com/etsy/hound)
