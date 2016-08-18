@@ -132,6 +132,7 @@ DevSecOps requires a common attack modeling capability that can be done at speed
 
 * [CAPEC](https://capec.mitre.org)
 * [Larry Osterman's Threat Modeling](https://blogs.msdn.microsoft.com/larryosterman/2007/10/01/some-final-thoughts-on-threat-modeling/)
+* [STIX](http://stixproject.github.io/stix2.0/)
 
 ## Secret Management
 To support security as code, sensitive credentials and secrets need to be managed, security, maintained and rotated using automation.  The projects below provide DevOps teams with some good options for securing sensitive details used in building and deploying full stack software deployments.
