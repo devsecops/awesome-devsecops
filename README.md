@@ -65,6 +65,7 @@ DevSecOps requires an appetite for learning and agility in acquiring new skills.
 * [Metasploitable](https://community.rapid7.com/docs/DOC-1875)
 * [DevSecOps Bootcamp](https://github.com/devsecops/bootcamp)
 * [Exercism](http://exercism.io/)
+* [Infrastructure Monitoring](https://github.com/appsecco/defcon24-infra-monitoring-workshop)
 
 ## Podcasts
 A small collection of DevOps and Security podcasts.
