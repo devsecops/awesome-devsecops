@@ -97,6 +97,7 @@ This collection of tools are useful in establishing a DevSecOps platform.  We ha
 Visualization is an important element of identifying, sharing and evolving the security information that passes from the beginning of the creative process through to operations.
 
 * [Kibana](https://www.elastic.co/products/kibana)
+* [Grafana](http://grafana.org/)
 
 ## Automation
 Automation platforms have an advantage of providing for scripted remediation when security defects are surfaced.
@@ -107,6 +108,7 @@ Automation platforms have an advantage of providing for scripted remediation whe
 This list of tools provide the capabilities necessary for finding security anomalies and identifying rules that should be automated and extended to support scale demands.
 
 * [Mirador](http://fathom.info/mirador/)
+* [osquery](https://osquery.io/)
 
 ## Testing
 Testing is an essential element of a DevSecOps program because it helps to prepare teams for Rugged operations and to determine security defects before they can be exploited.
@@ -116,11 +118,13 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [Snyk](https://snyk.io)
 * [Hakiri](https://hakiri.io)
 * [Brakeman](http://brakemanscanner.org)
+* [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 
 ## Alerting
 Once you discover something important, response time is critical and essential to the Incident Response required to remediate a security defect.  These links include some of the projects that provide for Alerting and Notifications.
 
 * [Elastalert](https://github.com/yelp/elastalert)
+* [411](https://github.com/kiwiz/411)
 
 ## Threat Intelligence
 There are many sources for Threat Intelligence in the world.  Some of these come from IP Intelligence and others from Malware repositories.  This category contains tools that are useful in capturing threat intelligence and collating it.
