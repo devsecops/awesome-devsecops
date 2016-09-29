@@ -25,6 +25,7 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
   - [Attack Modeling](#attack-modeling)
   - [Secret Management](#secret-management)
   - [Red Team](#red-team)
+  - [Visualization](#visualization)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -154,3 +155,8 @@ These are tools that we find helpful during Red Team and War Game exercises.  Th
 
 * [Hound](https://github.com/etsy/hound)
 * [EyeWitness](https://github.com/ChrisTruncer/EyeWitness)
+
+## Visualization
+Making DevSecOps discoveries is already hard enough with all the APIs and Command Line tools.  This list provides tools to visualize your work either via flowcharts, graphs or maps.
+
+* [Gephi](https://gephi.org)
