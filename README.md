@@ -11,6 +11,7 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
 - [Information](#information)
   - [Presentations](#presentations)
   - [Initiatives](#initiatives)
+  - [Keeping Informed](#keeping-informed)
 - [Training](#training)
   - [Labs](#labs)
   - [Conferences](#conferences)
@@ -42,9 +43,15 @@ Many talks are now targeting the change of adding Security into the DevOps envir
 ## Initiatives
 There are a variety of initiatives underway to migrate security and compliance into DevOps.  We've included links for active projects here:
 
+* [DevSecOps](http://devsecops.org)
 * [Rugged DevOps](http://www.ruggedsoftware.org)
 * [AWS Labs](https://github.com/awslabs)
 * [DevOps Audit Defense Toolkit](https://plus.google.com/communities/103372669680429508474)
+
+## Keeping Informed
+We've discovered a treasure trove of mailing lists and newsletters where DevSecOps like us are sharing their skills and insights.  
+
+* [Ruby Weekly](http://rubyweekly.com)
 
 # Training
 DevSecOps requires an appetite for learning and agility to quickly acquire new skills.  We've collected these links to help you learn how to do DevSecOps with us.
@@ -164,4 +171,4 @@ Making DevSecOps discoveries is already hard enough with all the APIs and Comman
 A collection of tools to help with sharing knowledge and telling the story.
 
 * [Speaker Deck](https://speakerdeck.com)
-* [Ruby Weekly](http://rubyweekly.com)
+* [Gitbook](https://www.gitbook.com)
