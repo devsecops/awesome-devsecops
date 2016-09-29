@@ -11,10 +11,10 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
 - [Information](#information)
   - [Presentations](#presentations)
   - [Initiatives](#initiatives)
+- [Training](#training)
+  - [Labs](#labs)
   - [Conferences](#conferences)
-  - [Training](#training)
   - [Podcasts](#podcasts)
-  - [Sharing](#sharing)
 - [Tools](#tools)
   - [Dashboards](#dashboards)
   - [Automation](#automation)
@@ -26,6 +26,7 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
   - [Secret Management](#secret-management)
   - [Red Team](#red-team)
   - [Visualization](#visualization)
+  - [Sharing](#sharing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -45,6 +46,21 @@ There are a variety of initiatives underway to migrate security and compliance i
 * [AWS Labs](https://github.com/awslabs)
 * [DevOps Audit Defense Toolkit](https://plus.google.com/communities/103372669680429508474)
 
+# Training
+DevSecOps requires an appetite for learning and agility to quickly acquire new skills.  We've collected these links to help you learn how to do DevSecOps with us.
+
+## Labs
+Labs are hands-on learning opportunities to grow your skills in Dev, Sec, and Ops.  All skills are useful and need to be grown so that you can have the empathy, knowledge and trade to operate DevSecOps style.
+
+* [Pentester Lab](https://pentesterlab.com/exercises/)
+* [Infoseclabs](http://www.infoseclabs.net)
+* [Vulnhub](https://www.vulnhub.com/)
+* [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10)
+* [Metasploitable](https://community.rapid7.com/docs/DOC-1875)
+* [DevSecOps Bootcamp](https://github.com/devsecops/bootcamp)
+* [Exercism](http://exercism.io/)
+* [Infrastructure Monitoring](https://github.com/appsecco/defcon24-infra-monitoring-workshop)
+
 ## Conferences
 A body of knowledge for combining DevOps and Security has been delivered via conferences and meetups.  This is a short list of the venues that have dedicated a portion of their agenda to it.
 
@@ -55,18 +71,7 @@ A body of knowledge for combining DevOps and Security has been delivered via con
 * [ISACA Ireland](http://www.isaca.org/chapters5/Ireland/conference/pages/Agenda.aspx)
 * [DevOps Connect](http://www.devopsconnect.com/)
 * [DevOps Days](http://www.devopsdays.org/)
-
-## Training
-DevSecOps requires an appetite for learning and agility in acquiring new skills.  We've collected these links to help you learn how to do DevSecOps with us.
-
-* [Pentester Lab](https://pentesterlab.com/exercises/)
-* [Infoseclabs](http://www.infoseclabs.net)
-* [Vulnhub](https://www.vulnhub.com/)
-* [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10)
-* [Metasploitable](https://community.rapid7.com/docs/DOC-1875)
-* [DevSecOps Bootcamp](https://github.com/devsecops/bootcamp)
-* [Exercism](http://exercism.io/)
-* [Infrastructure Monitoring](https://github.com/appsecco/defcon24-infra-monitoring-workshop)
+* [IP Expo]()
 
 ## Podcasts
 A small collection of DevOps and Security podcasts.
@@ -84,12 +89,6 @@ A small collection of DevOps and Security podcasts.
 * [Food Fight Show](http://foodfightshow.org/)
 * [The Ship Show](http://theshipshow.com/)
 * [Risky Business](http://risky.biz/)
-
-## Sharing
-A collection of tools to help with sharing knowledge and telling the story.
-
-* [Speaker Deck](https://speakerdeck.com)
-* [Ruby Weekly](http://rubyweekly.com)
 
 # Tools
 This collection of tools are useful in establishing a DevSecOps platform.  We have divided the tools into several categories that help with the different divisions of DevSecOps.
@@ -160,3 +159,9 @@ These are tools that we find helpful during Red Team and War Game exercises.  Th
 Making DevSecOps discoveries is already hard enough with all the APIs and Command Line tools.  This list provides tools to visualize your work either via flowcharts, graphs or maps.
 
 * [Gephi](https://gephi.org)
+
+## Sharing
+A collection of tools to help with sharing knowledge and telling the story.
+
+* [Speaker Deck](https://speakerdeck.com)
+* [Ruby Weekly](http://rubyweekly.com)
