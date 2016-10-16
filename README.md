@@ -28,6 +28,7 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
   - [Red Team](#red-team)
   - [Visualization](#visualization)
   - [Sharing](#sharing)
+  - [ChatOps](#chatops)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -172,3 +173,15 @@ A collection of tools to help with sharing knowledge and telling the story.
 
 * [Speaker Deck](https://speakerdeck.com)
 * [Gitbook](https://www.gitbook.com)
+
+## ChatOps
+One of the greatest changes you can make in your organization is boundaryless communications.  Setting up ChatOps can enable everyone to come together and solve problems.  
+
+* [Gitter](https://gitter.im)
+* [Slack](https://slack.com)
+* [HipChat](https://hipchat.com)
+
+
+
+
+
