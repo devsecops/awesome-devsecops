@@ -9,6 +9,7 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Information](#information)
+  - [Guidelines](#guidelines)
   - [Presentations](#presentations)
   - [Initiatives](#initiatives)
   - [Keeping Informed](#keeping-informed)
@@ -35,6 +36,11 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
 
 # Information
 We've been working across the industry to learn more about the different types of DevOps + Security initiatives.  This collection has been pulled together and includes: Podcasts, Videos, Presentations, and other Media to help you learn more about DevSecOps, SecDevOps, DevOpsSec, and/or DevOps + Security.
+
+## Guidelines
+While we're not into the paper-way of doing things, sharing sound advice and good recommendations can make software stronger.  We aim to make these guidelines better through code.
+
+* [Security Guide for Web Developers](https://github.com/FallibleInc/security-guide-for-developers)
 
 ## Presentations
 Many talks are now targeting the change of adding Security into the DevOps environment.  We've added some of the most notable ones here.    
