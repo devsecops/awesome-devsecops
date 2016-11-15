@@ -187,6 +187,7 @@ One of the greatest changes you can make in your organization is boundaryless co
 * [Gitter](https://gitter.im)
 * [Slack](https://slack.com)
 * [HipChat](https://hipchat.com)
+* [Riot](https://riot.im/)
 
 
 
