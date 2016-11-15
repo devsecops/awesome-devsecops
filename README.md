@@ -174,6 +174,7 @@ These are tools that we find helpful during Red Team and War Game exercises.  Th
 Making DevSecOps discoveries is already hard enough with all the APIs and Command Line tools.  This list provides tools to visualize your work either via flowcharts, graphs or maps.
 
 * [Gephi](https://gephi.org)
+* [ShadowBuster](https://github.com/indeedops/ShadowBuster)
 
 ## Sharing
 A collection of tools to help with sharing knowledge and telling the story.
