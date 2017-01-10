@@ -134,6 +134,12 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [Brakeman](http://brakemanscanner.org)
 * [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 * [OSS Fuzz](https://github.com/google/oss-fuzz)
+* [IronWASP](https://ironwasp.org/)
+* [RIPS](http://rips-scanner.sourceforge.net/)
+* [Infer](http://fbinfer.com/)
+* [OWASP OWTF](https://www.owasp.org/index.php/OWASP_OWTF)
+* [Lynis](https://cisofy.com/lynis/)
+
 
 ## Alerting
 Once you discover something important, response time is critical and essential to the Incident Response required to remediate a security defect.  These links include some of the projects that provide for Alerting and Notifications.
