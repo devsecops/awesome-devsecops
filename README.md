@@ -123,6 +123,12 @@ This list of tools provide the capabilities necessary for finding security anoma
 
 * [Mirador](http://fathom.info/mirador/)
 * [osquery](https://osquery.io/)
+* [OSSEC](http://ossec.github.io/)
+* [GRR](https://github.com/google/grr)
+* [MozDef](https://github.com/mozilla/MozDef)
+* [moloch](https://github.com/aol/moloch)
+* [osxcollector](https://github.com/Yelp/osxcollector)
+* [mig](https://github.com/mozilla/mig)
 
 ## Testing
 Testing is an essential element of a DevSecOps program because it helps to prepare teams for Rugged operations and to determine security defects before they can be exploited.
@@ -196,8 +202,3 @@ One of the greatest changes you can make in your organization is boundaryless co
 * [Slack](https://slack.com)
 * [HipChat](https://hipchat.com)
 * [Riot](https://riot.im/)
-
-
-
-
-
