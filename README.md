@@ -68,6 +68,7 @@ One way for people to continue to evolve their capabilities and share common und
 * [SOC Value Chain & Delivery Models](http://blog.blackswansecurity.com/2016/01/soc-value-chain-delivery-models/)
 * [Check out Figure 6 for Comparisons](http://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/)
 * [Security Industry Example](http://blog.gardeviance.org/2014_08_01_archive.html)
+* [DevSecOps Repo for Security Maps](https://github.com/devsecops/wardley-maps)
 
 # Training
 DevSecOps requires an appetite for learning and agility to quickly acquire new skills.  We've collected these links to help you learn how to do DevSecOps with us.
