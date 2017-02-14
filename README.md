@@ -13,6 +13,7 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
   - [Presentations](#presentations)
   - [Initiatives](#initiatives)
   - [Keeping Informed](#keeping-informed)
+  - [Wardley Maps for Security](#wardley-maps-for-security)
 - [Training](#training)
   - [Labs](#labs)
   - [Conferences](#conferences)
@@ -59,6 +60,14 @@ There are a variety of initiatives underway to migrate security and compliance i
 We've discovered a treasure trove of mailing lists and newsletters where DevSecOps like us are sharing their skills and insights.  
 
 * [Ruby Weekly](http://rubyweekly.com)
+
+## Wardley Maps for Security
+One way for people to continue to evolve their capabilities and share common understanding is through the development of Wardley Maps.  We're collecting this information and providing some good examples here.
+
+* [Introduction to Wardley Maps](http://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html)
+* [SOC Value Chain & Delivery Models](http://blog.blackswansecurity.com/2016/01/soc-value-chain-delivery-models/)
+* [Check out Figure 6 for Comparisons](http://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/)
+* [Security Industry Example](http://blog.gardeviance.org/2014_08_01_archive.html)
 
 # Training
 DevSecOps requires an appetite for learning and agility to quickly acquire new skills.  We've collected these links to help you learn how to do DevSecOps with us.
