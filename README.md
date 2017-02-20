@@ -18,6 +18,7 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
   - [Labs](#labs)
   - [Conferences](#conferences)
   - [Podcasts](#podcasts)
+  - [Books](#books)
 - [Tools](#tools)
   - [Dashboards](#dashboards)
   - [Automation](#automation)
@@ -113,6 +114,10 @@ A small collection of DevOps and Security podcasts.
 * [Food Fight Show](http://foodfightshow.org/)
 * [The Ship Show](http://theshipshow.com/)
 * [Risky Business](http://risky.biz/)
+
+## Books
+Books focussed around DevSecOps, bringing the security focus up front.
+* [Holistic Info-Sec for Web Developers](https://leanpub.com/b/holisticinfosecforwebdevelopers)
 
 # Tools
 This collection of tools are useful in establishing a DevSecOps platform.  We have divided the tools into several categories that help with the different divisions of DevSecOps.
