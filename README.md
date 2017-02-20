@@ -16,6 +16,7 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
   - [Wardley Maps for Security](#wardley-maps-for-security)
 - [Training](#training)
   - [Labs](#labs)
+  - [Vulnerable Test Targets](#vulnerable-test-targets)
   - [Conferences](#conferences)
   - [Podcasts](#podcasts)
 - [Tools](#tools)
@@ -79,12 +80,17 @@ Labs are hands-on learning opportunities to grow your skills in Dev, Sec, and Op
 * [Pentester Lab](https://pentesterlab.com/exercises/)
 * [Infoseclabs](http://www.infoseclabs.net)
 * [Vulnhub](https://www.vulnhub.com/)
-* [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10)
-* [NodeGoat](https://github.com/owasp/nodegoat)
-* [Metasploitable](https://community.rapid7.com/docs/DOC-1875)
 * [DevSecOps Bootcamp](https://github.com/devsecops/bootcamp)
 * [Exercism](http://exercism.io/)
 * [Infrastructure Monitoring](https://github.com/appsecco/defcon24-infra-monitoring-workshop)
+
+## Vulnerable Test Targets
+It's important to build up knowledge by learning how to break applications left vulnerable by security mistakes.  This section contains a list of vulnerable apps that can be deployed to learn what not to do.  These same apps can be made safe by remediating the intentional vulnerabilities to learn how to prevent attackers from gaining access to underlying infrastructure or data.
+
+* [Metasploitable](https://community.rapid7.com/docs/DOC-1875) (Linux)
+* [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10) (PHP)
+* [NodeGoat](https://github.com/owasp/nodegoat) (Node)
+* [LambHack](https://github.com/wickett/lambhack) (Lambda)
 
 ## Conferences
 A body of knowledge for combining DevOps and Security has been delivered via conferences and meetups.  This is a short list of the venues that have dedicated a portion of their agenda to it.
