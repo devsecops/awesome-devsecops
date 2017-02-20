@@ -80,6 +80,7 @@ Labs are hands-on learning opportunities to grow your skills in Dev, Sec, and Op
 * [Infoseclabs](http://www.infoseclabs.net)
 * [Vulnhub](https://www.vulnhub.com/)
 * [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10)
+* [NodeGoat](https://github.com/owasp/nodegoat)
 * [Metasploitable](https://community.rapid7.com/docs/DOC-1875)
 * [DevSecOps Bootcamp](https://github.com/devsecops/bootcamp)
 * [Exercism](http://exercism.io/)
