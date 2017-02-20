@@ -151,7 +151,6 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [npm-check](https://www.npmjs.com/package/npm-check)
 * [David](https://david-dm.org/)
 * [RetireJS](https://github.com/RetireJS/retire.js)
-* [Bithound](https://www.bithound.io/)
 * [Hakiri](https://hakiri.io)
 * [Brakeman](http://brakemanscanner.org)
 * [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
