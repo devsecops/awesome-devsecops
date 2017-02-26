@@ -187,6 +187,7 @@ There are many sources for Threat Intelligence in the world.  Some of these come
 * [OpenTPX](https://www.opentpx.org)
 * [Passive Total](https://www.passivetotal.org)
 * [Critical Stack](https://intel.criticalstack.com)
+* [IntelMQ Feeds](https://github.com/certtools/intelmq-feeds-documentation)
 
 ## Attack Modeling
 DevSecOps requires a common attack modeling capability that can be done at speed and scale.  Thankfully there are efforts underway to create these useful taxonomies that help us operationalize attack modeling and defenses.
