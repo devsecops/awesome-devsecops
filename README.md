@@ -88,10 +88,14 @@ Labs are hands-on learning opportunities to grow your skills in Dev, Sec, and Op
 ## Vulnerable Test Targets
 It's important to build up knowledge by learning how to break applications left vulnerable by security mistakes.  This section contains a list of vulnerable apps that can be deployed to learn what not to do.  These same apps can be made safe by remediating the intentional vulnerabilities to learn how to prevent attackers from gaining access to underlying infrastructure or data.
 
+* [LambHack](https://github.com/wickett/lambhack) (Lambda)
 * [Metasploitable](https://community.rapid7.com/docs/DOC-1875) (Linux)
 * [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10) (PHP)
 * [NodeGoat](https://github.com/owasp/nodegoat) (Node)
-* [LambHack](https://github.com/wickett/lambhack) (Lambda)
+* [RailsGoat](https://github.com/OWASP/railsgoat) (Rails)
+* [WebGoat.Net](https://github.com/OWASP/WebGoat.NET) (.NET)
+* [WebGoat](https://github.com/WebGoat/WebGoat) (Web App)
+* [WebGoatPHP](https://github.com/OWASP/OWASPWebGoatPHP) (PHP)
 
 ## Conferences
 A body of knowledge for combining DevOps and Security has been delivered via conferences and meetups.  This is a short list of the venues that have dedicated a portion of their agenda to it.
@@ -108,19 +112,20 @@ A body of knowledge for combining DevOps and Security has been delivered via con
 ## Podcasts
 A small collection of DevOps and Security podcasts.
 
-* [Social Engineering Podcast](http://www.social-engineer.org/category/podcast/)
-* [Trusted Sec Podcast](https://www.trustedsec.com/podcast/)
-* [Defensive Security Podcast](http://www.defensivesecurity.org/)
-* [Brakeing Down Security Podcast](http://www.brakeingsecurity.com/)
-* [Tenable Security Podcast](http://www.tenable.com/podcast)
-* [Down The Security Rabbithole](http://podcast.wh1t3rabbit.net/)
-* [OWASP 24/7](https://www.owasp.org/index.php/OWASP_Podcast)
-* [Take 1 Security Podcast](https://danielmiessler.com/podcast/)
 * [Arrested DevOps](https://www.arresteddevops.com/)
+* [Brakeing Down Security Podcast](http://www.brakeingsecurity.com/)
+* [Data Driven Security](http://datadrivensecurity.info/podcast/)
+* [Defensive Security Podcast](http://www.defensivesecurity.org/)
 * [DevOps Cafe](http://devopscafe.org/)
+* [Down The Security Rabbithole](http://podcast.wh1t3rabbit.net/)
 * [Food Fight Show](http://foodfightshow.org/)
-* [The Ship Show](http://theshipshow.com/)
+* [OWASP 24/7](https://www.owasp.org/index.php/OWASP_Podcast)
 * [Risky Business](http://risky.biz/)
+* [Social Engineering Podcast](http://www.social-engineer.org/category/podcast/)
+* [Take 1 Security Podcast](https://danielmiessler.com/podcast/)
+* [Tenable Security Podcast](http://www.tenable.com/podcast)
+* [The Ship Show](http://theshipshow.com/)
+* [Trusted Sec Podcast](https://www.trustedsec.com/podcast/)
 
 ## Books
 Books focussed around DevSecOps, bringing the security focus up front.
