@@ -209,6 +209,7 @@ To support security as code, sensitive credentials and secrets need to be manage
 * [BlackBox](https://github.com/StackExchange/blackbox)
 * [Transcrypt](https://github.com/elasticdog/transcrypt)
 * [Keybase](https://keybase.io)
+* [Git Secrets](https://github.com/awslabs/git-secrets)
 
 ## Red Team
 These are tools that we find helpful during Red Team and War Game exercises.  The projects in this section help with reconnaissance, exploit development, and other activities common within the Kill Chain.
