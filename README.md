@@ -44,6 +44,7 @@ We've been working across the industry to learn more about the different types o
 While we're not into the paper-way of doing things, sharing sound advice and good recommendations can make software stronger.  We aim to make these guidelines better through code.
 
 * [Security Guide for Web Developers](https://github.com/FallibleInc/security-guide-for-developers)
+* [Security Champions Playbook](https://github.com/c0rdis/security-champions-playbook)
 
 ## Presentations
 Many talks are now targeting the change of adding Security into the DevOps environment.  We've added some of the most notable ones here.    
