@@ -108,6 +108,7 @@ A body of knowledge for combining DevOps and Security has been delivered via con
 * [DevOps Connect](http://www.devopsconnect.com/)
 * [DevOps Days](http://www.devopsdays.org/)
 * [IP Expo]()
+* [All Day DevOps](https://www.alldaydevops.com/)
 
 ## Podcasts
 A small collection of DevOps and Security podcasts.
