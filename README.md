@@ -123,7 +123,6 @@ A small collection of DevOps and Security podcasts.
 * [Take 1 Security Podcast](https://danielmiessler.com/podcast/)
 * [DevOps Cafe](http://devopscafe.org/)
 * [Food Fight Show](http://foodfightshow.org/)
-* [The Ship Show](http://theshipshow.com/)
 * [Risky Business](http://risky.biz/)
 * [The Secure Developer](http://www.heavybit.com/library/podcasts/the-secure-developer/)
 
