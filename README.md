@@ -96,6 +96,7 @@ It's important to build up knowledge by learning how to break applications left 
 * [WebGoatPHP](https://github.com/OWASP/OWASPWebGoatPHP) (PHP)
 * [WebGoat](https://github.com/WebGoat/WebGoat) (Web App)
 * [WebGoat.Net](https://github.com/OWASP/WebGoat.NET) (.NET)
+* [OWASP Juice Shop](https://github.com/OWASP/glue) (NodeJS/Angular)
 
 ## Conferences
 A body of knowledge for combining DevOps and Security has been delivered via conferences and meetups.  This is a short list of the venues that have dedicated a portion of their agenda to it.
