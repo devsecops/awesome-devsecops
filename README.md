@@ -129,6 +129,7 @@ A small collection of DevOps and Security podcasts.
 
 ## Books
 Books focussed around DevSecOps, bringing the security focus up front.
+* [Docker Securitiy - Quick Reference](https://binarymist.io/publication/docker-security/)
 * [Holistic Info-Sec for Web Developers](https://leanpub.com/b/holisticinfosecforwebdevelopers)
 
 # Tools
