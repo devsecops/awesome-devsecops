@@ -177,6 +177,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [Infer](http://fbinfer.com/)
 * [OWASP OWTF](https://www.owasp.org/index.php/OWASP_OWTF)
 * [Lynis](https://cisofy.com/lynis/)
+* [PureSec (Serverless Security)](https://www.puresec.io/)
 
 
 ## Alerting
