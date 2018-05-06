@@ -185,6 +185,7 @@ Once you discover something important, response time is critical and essential t
 * [Elastalert](https://github.com/yelp/elastalert)
 * [411](https://github.com/kiwiz/411)
 * [Alerta](https://github.com/guardian/alerta)
+* [MozDef](https://github.com/mozilla/MozDef)
 
 ## Threat Intelligence
 There are many sources for Threat Intelligence in the world.  Some of these come from IP Intelligence and others from Malware repositories.  This category contains tools that are useful in capturing threat intelligence and collating it.
