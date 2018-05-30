@@ -144,6 +144,7 @@ Visualization is an important element of identifying, sharing and evolving the s
 Automation platforms have an advantage of providing for scripted remediation when security defects are surfaced.
 
 * [StackStorm](https://github.com/StackStorm/st2)
+* [OWASP Glue](https://github.com/OWASP/glue)
 
 ## Hunting
 This list of tools provide the capabilities necessary for finding security anomalies and identifying rules that should be automated and extended to support scale demands.
