@@ -44,11 +44,16 @@ We've been working across the industry to learn more about the different types o
 While we're not into the paper-way of doing things, sharing sound advice and good recommendations can make software stronger.  We aim to make these guidelines better through code.
 
 * [Security Guide for Web Developers](https://github.com/FallibleInc/security-guide-for-developers)
+* [Security Champions Playbook](https://github.com/c0rdis/security-champions-playbook)
 
 ## Presentations
 Many talks are now targeting the change of adding Security into the DevOps environment.  We've added some of the most notable ones here.    
 
 * [Veracode's Defending the Cloud from a Full Stack Hack](https://www.rsaconference.com/writable/presentations/file_upload/csv-w03-_defending-the-cloud-from-the-full-stack-hack.pdf)
+* [Mozilla's Test Driven Security in Continuous Integration](https://www.youtube.com/watch?v=e2axToBYD68)
+* [DevSecOps: Taking a DevOps Approach to Security](https://www.slideshare.net/AlertLogic/alert-logic-and-chef-dev-ops-webinar)
+* [Security DevOps - staying secure in agile projects](https://christian-schneider.net/slides/OWASP-AppSecEU-2015_SecDevOps.pdf)
+
 
 ## Initiatives
 There are a variety of initiatives underway to migrate security and compliance into DevOps.  We've included links for active projects here:
@@ -62,6 +67,7 @@ There are a variety of initiatives underway to migrate security and compliance i
 We've discovered a treasure trove of mailing lists and newsletters where DevSecOps like us are sharing their skills and insights.  
 
 * [Ruby Weekly](http://rubyweekly.com)
+* [Security Newsletter](https://securitynewsletter.co/)
 
 ## Wardley Maps for Security
 One way for people to continue to evolve their capabilities and share common understanding is through the development of Wardley Maps.  We're collecting this information and providing some good examples here.
@@ -92,10 +98,12 @@ It's important to build up knowledge by learning how to break applications left 
 * [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10) (PHP)
 * [NodeGoat](https://github.com/owasp/nodegoat) (Node)
 * [LambHack](https://github.com/wickett/lambhack) (Lambda)
+* [Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA) (PHP/MySQL)
 * [RailsGoat](https://github.com/OWASP/railsgoat) (Rails)
 * [WebGoatPHP](https://github.com/OWASP/OWASPWebGoatPHP) (PHP)
 * [WebGoat](https://github.com/WebGoat/WebGoat) (Web App)
 * [WebGoat.Net](https://github.com/OWASP/WebGoat.NET) (.NET)
+* [OWASP Juice Shop](https://github.com/OWASP/glue) (NodeJS/Angular)
 
 ## Conferences
 A body of knowledge for combining DevOps and Security has been delivered via conferences and meetups.  This is a short list of the venues that have dedicated a portion of their agenda to it.
@@ -107,7 +115,7 @@ A body of knowledge for combining DevOps and Security has been delivered via con
 * [ISACA Ireland](http://www.isaca.org/chapters5/Ireland/conference/pages/Agenda.aspx)
 * [DevOps Connect](http://www.devopsconnect.com/)
 * [DevOps Days](http://www.devopsdays.org/)
-* [IP Expo]()
+* [IP Expo](http://www.ipexpoeurope.com/)
 
 ## Podcasts
 A small collection of DevOps and Security podcasts.
@@ -123,13 +131,17 @@ A small collection of DevOps and Security podcasts.
 * [Take 1 Security Podcast](https://danielmiessler.com/podcast/)
 * [DevOps Cafe](http://devopscafe.org/)
 * [Food Fight Show](http://foodfightshow.org/)
-* [The Ship Show](http://theshipshow.com/)
 * [Risky Business](http://risky.biz/)
 * [The Secure Developer](http://www.heavybit.com/library/podcasts/the-secure-developer/)
+* [Software Engineering Radio](http://www.se-radio.net/team/kim-carter/)
 
 ## Books
 Books focussed around DevSecOps, bringing the security focus up front.
+
+* [DevOpsSec](http://www.oreilly.com/webops-perf/free/devopssec.csp)
+* [Docker Securitiy - Quick Reference](https://binarymist.io/publication/docker-security/)
 * [Holistic Info-Sec for Web Developers](https://leanpub.com/b/holisticinfosecforwebdevelopers)
+* [Securing DevOps](https://securing-devops.com/book)
 
 # Tools
 This collection of tools are useful in establishing a DevSecOps platform.  We have divided the tools into several categories that help with the different divisions of DevSecOps.
@@ -144,6 +156,7 @@ Visualization is an important element of identifying, sharing and evolving the s
 Automation platforms have an advantage of providing for scripted remediation when security defects are surfaced.
 
 * [StackStorm](https://github.com/StackStorm/st2)
+* [OWASP Glue](https://github.com/OWASP/glue)
 
 ## Hunting
 This list of tools provide the capabilities necessary for finding security anomalies and identifying rules that should be automated and extended to support scale demands.
@@ -162,6 +175,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 
 * [Gauntlt](http://gauntlt.org/)
 * [Chef Inspec](https://github.com/chef/inspec)
+* [SourceClear](https://www.sourceclear.com)
 * [Snyk](https://snyk.io)
 * [Node Security Platform](https://nodesecurity.io/)
 * [npm-outdated](https://docs.npmjs.com/cli/outdated)
@@ -178,6 +192,8 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [OWASP OWTF](https://www.owasp.org/index.php/OWASP_OWTF)
 * [Lynis](https://cisofy.com/lynis/)
 * [PureSec (Serverless Security)](https://www.puresec.io/)
+* [Progpilot](https://github.com/designsecurity/progpilot)
+* [BDD Security](https://www.continuumsecurity.net/bdd-security/)
 
 
 ## Alerting
@@ -186,6 +202,7 @@ Once you discover something important, response time is critical and essential t
 * [Elastalert](https://github.com/yelp/elastalert)
 * [411](https://github.com/kiwiz/411)
 * [Alerta](https://github.com/guardian/alerta)
+* [MozDef](https://github.com/mozilla/MozDef)
 
 ## Threat Intelligence
 There are many sources for Threat Intelligence in the world.  Some of these come from IP Intelligence and others from Malware repositories.  This category contains tools that are useful in capturing threat intelligence and collating it.
@@ -194,14 +211,20 @@ There are many sources for Threat Intelligence in the world.  Some of these come
 * [Passive Total](https://www.passivetotal.org)
 * [Critical Stack](https://intel.criticalstack.com)
 * [IntelMQ Feeds](https://github.com/certtools/intelmq-feeds-documentation)
+* [Threat Connect](https://threatconnect.com/)
+* [Alien Vault OTX](https://otx.alienvault.com/)
+* [IBM X-Force](https://exchange.xforce.ibmcloud.com)
+* [STIX, TAXII](https://oasis-open.github.io/cti-documentation/)
 
 ## Attack Modeling
 DevSecOps requires a common attack modeling capability that can be done at speed and scale.  Thankfully there are efforts underway to create these useful taxonomies that help us operationalize attack modeling and defenses.
 
 * [CAPEC](https://capec.mitre.org)
 * [Larry Osterman's Threat Modeling](https://blogs.msdn.microsoft.com/larryosterman/2007/10/01/some-final-thoughts-on-threat-modeling/)
-* [STIX](http://stixproject.github.io/stix2.0/)
 * [SeaSponge](http://mozilla.github.io/seasponge/)
+* [IriusRisk](https://www.continuumsecurity.net/threat-modeling-tool/)
+* [SDL Threat Modeling Tool](https://www.microsoft.com/en-us/sdl/adopt/threatmodeling.aspx)
+* [Threat Risk Modeling](https://www.owasp.org/index.php/Threat_Risk_Modeling)
 
 ## Secret Management
 To support security as code, sensitive credentials and secrets need to be managed, security, maintained and rotated using automation.  The projects below provide DevOps teams with some good options for securing sensitive details used in building and deploying full stack software deployments.
@@ -211,6 +234,7 @@ To support security as code, sensitive credentials and secrets need to be manage
 * [Transcrypt](https://github.com/elasticdog/transcrypt)
 * [Keybase](https://keybase.io)
 * [Git Secrets](https://github.com/awslabs/git-secrets)
+* [Sops](https://github.com/mozilla/sops)
 
 ## Red Team
 These are tools that we find helpful during Red Team and War Game exercises.  The projects in this section help with reconnaissance, exploit development, and other activities common within the Kill Chain.
