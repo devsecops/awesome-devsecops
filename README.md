@@ -166,6 +166,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 
 * [Gauntlt](http://gauntlt.org/)
 * [Chef Inspec](https://github.com/chef/inspec)
+* [SourceClear](https://www.sourceclear.com)
 * [Snyk](https://snyk.io)
 * [Node Security Platform](https://nodesecurity.io/)
 * [npm-outdated](https://docs.npmjs.com/cli/outdated)
