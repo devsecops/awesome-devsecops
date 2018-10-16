@@ -49,8 +49,10 @@ While we're not into the paper-way of doing things, sharing sound advice and goo
 Many talks are now targeting the change of adding Security into the DevOps environment.  We've added some of the most notable ones here.    
 
 * [Veracode's Defending the Cloud from a Full Stack Hack](https://www.rsaconference.com/writable/presentations/file_upload/csv-w03-_defending-the-cloud-from-the-full-stack-hack.pdf)
+* [Mozilla's Test Driven Security in Continuous Integration](https://www.youtube.com/watch?v=e2axToBYD68)
 * [DevSecOps: Taking a DevOps Approach to Security](https://www.slideshare.net/AlertLogic/alert-logic-and-chef-dev-ops-webinar)
 * [Security DevOps - staying secure in agile projects](https://christian-schneider.net/slides/OWASP-AppSecEU-2015_SecDevOps.pdf)
+
 
 ## Initiatives
 There are a variety of initiatives underway to migrate security and compliance into DevOps.  We've included links for active projects here:
@@ -134,6 +136,7 @@ A small collection of DevOps and Security podcasts.
 Books focussed around DevSecOps, bringing the security focus up front.
 * [DevOpsSec](http://www.oreilly.com/webops-perf/free/devopssec.csp)
 * [Holistic Info-Sec for Web Developers](https://leanpub.com/b/holisticinfosecforwebdevelopers)
+* [Securing DevOps](https://securing-devops.com/book)
 
 # Tools
 This collection of tools are useful in establishing a DevSecOps platform.  We have divided the tools into several categories that help with the different divisions of DevSecOps.
@@ -222,6 +225,7 @@ To support security as code, sensitive credentials and secrets need to be manage
 * [Transcrypt](https://github.com/elasticdog/transcrypt)
 * [Keybase](https://keybase.io)
 * [Git Secrets](https://github.com/awslabs/git-secrets)
+* [Sops](https://github.com/mozilla/sops)
 
 ## Red Team
 These are tools that we find helpful during Red Team and War Game exercises.  The projects in this section help with reconnaissance, exploit development, and other activities common within the Kill Chain.
