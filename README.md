@@ -49,6 +49,8 @@ While we're not into the paper-way of doing things, sharing sound advice and goo
 Many talks are now targeting the change of adding Security into the DevOps environment.  We've added some of the most notable ones here.    
 
 * [Veracode's Defending the Cloud from a Full Stack Hack](https://www.rsaconference.com/writable/presentations/file_upload/csv-w03-_defending-the-cloud-from-the-full-stack-hack.pdf)
+* [DevSecOps: Taking a DevOps Approach to Security](https://www.slideshare.net/AlertLogic/alert-logic-and-chef-dev-ops-webinar)
+* [Security DevOps - staying secure in agile projects](https://christian-schneider.net/slides/OWASP-AppSecEU-2015_SecDevOps.pdf)
 
 ## Initiatives
 There are a variety of initiatives underway to migrate security and compliance into DevOps.  We've included links for active projects here:
@@ -92,6 +94,7 @@ It's important to build up knowledge by learning how to break applications left 
 * [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10) (PHP)
 * [NodeGoat](https://github.com/owasp/nodegoat) (Node)
 * [LambHack](https://github.com/wickett/lambhack) (Lambda)
+* [Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA) (PHP/MySQL)
 * [RailsGoat](https://github.com/OWASP/railsgoat) (Rails)
 * [WebGoatPHP](https://github.com/OWASP/OWASPWebGoatPHP) (PHP)
 * [WebGoat](https://github.com/WebGoat/WebGoat) (Web App)
@@ -107,7 +110,7 @@ A body of knowledge for combining DevOps and Security has been delivered via con
 * [ISACA Ireland](http://www.isaca.org/chapters5/Ireland/conference/pages/Agenda.aspx)
 * [DevOps Connect](http://www.devopsconnect.com/)
 * [DevOps Days](http://www.devopsdays.org/)
-* [IP Expo]()
+* [IP Expo](http://www.ipexpoeurope.com/)
 
 ## Podcasts
 A small collection of DevOps and Security podcasts.
@@ -129,6 +132,7 @@ A small collection of DevOps and Security podcasts.
 
 ## Books
 Books focussed around DevSecOps, bringing the security focus up front.
+* [DevOpsSec](http://www.oreilly.com/webops-perf/free/devopssec.csp)
 * [Holistic Info-Sec for Web Developers](https://leanpub.com/b/holisticinfosecforwebdevelopers)
 
 # Tools
@@ -177,6 +181,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [Infer](http://fbinfer.com/)
 * [OWASP OWTF](https://www.owasp.org/index.php/OWASP_OWTF)
 * [Lynis](https://cisofy.com/lynis/)
+* [BDD Security](https://www.continuumsecurity.net/bdd-security/)
 
 
 ## Alerting
@@ -193,14 +198,20 @@ There are many sources for Threat Intelligence in the world.  Some of these come
 * [Passive Total](https://www.passivetotal.org)
 * [Critical Stack](https://intel.criticalstack.com)
 * [IntelMQ Feeds](https://github.com/certtools/intelmq-feeds-documentation)
+* [Threat Connect](https://threatconnect.com/)
+* [Alien Vault OTX](https://otx.alienvault.com/)
+* [IBM X-Force](https://exchange.xforce.ibmcloud.com)
+* [STIX, TAXII](https://oasis-open.github.io/cti-documentation/)
 
 ## Attack Modeling
 DevSecOps requires a common attack modeling capability that can be done at speed and scale.  Thankfully there are efforts underway to create these useful taxonomies that help us operationalize attack modeling and defenses.
 
 * [CAPEC](https://capec.mitre.org)
 * [Larry Osterman's Threat Modeling](https://blogs.msdn.microsoft.com/larryosterman/2007/10/01/some-final-thoughts-on-threat-modeling/)
-* [STIX](http://stixproject.github.io/stix2.0/)
 * [SeaSponge](http://mozilla.github.io/seasponge/)
+* [IriusRisk](https://www.continuumsecurity.net/threat-modeling-tool/)
+* [SDL Threat Modeling Tool](https://www.microsoft.com/en-us/sdl/adopt/threatmodeling.aspx)
+* [Threat Risk Modeling](https://www.owasp.org/index.php/Threat_Risk_Modeling)
 
 ## Secret Management
 To support security as code, sensitive credentials and secrets need to be managed, security, maintained and rotated using automation.  The projects below provide DevOps teams with some good options for securing sensitive details used in building and deploying full stack software deployments.
