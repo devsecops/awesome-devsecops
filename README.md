@@ -67,6 +67,7 @@ There are a variety of initiatives underway to migrate security and compliance i
 We've discovered a treasure trove of mailing lists and newsletters where DevSecOps like us are sharing their skills and insights.  
 
 * [Ruby Weekly](http://rubyweekly.com)
+* [Security Newsletter](https://securitynewsletter.co/)
 
 ## Wardley Maps for Security
 One way for people to continue to evolve their capabilities and share common understanding is through the development of Wardley Maps.  We're collecting this information and providing some good examples here.
