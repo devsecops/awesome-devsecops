@@ -133,6 +133,7 @@ A small collection of DevOps and Security podcasts.
 * [Food Fight Show](http://foodfightshow.org/)
 * [Risky Business](http://risky.biz/)
 * [The Secure Developer](http://www.heavybit.com/library/podcasts/the-secure-developer/)
+* [Darknet Diaries](https://darknetdiaries.com)
 * [Software Engineering Radio](http://www.se-radio.net/team/kim-carter/)
 
 ## Books
