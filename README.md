@@ -95,6 +95,10 @@ It's important to build up knowledge by learning how to break applications left 
 * [NodeGoat](https://github.com/owasp/nodegoat) (Node)
 * [LambHack](https://github.com/wickett/lambhack) (Lambda)
 * [Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA) (PHP/MySQL)
+* [RailsGoat](https://github.com/OWASP/railsgoat) (Rails)
+* [WebGoatPHP](https://github.com/OWASP/OWASPWebGoatPHP) (PHP)
+* [WebGoat](https://github.com/WebGoat/WebGoat) (Web App)
+* [WebGoat.Net](https://github.com/OWASP/WebGoat.NET) (.NET)
 
 ## Conferences
 A body of knowledge for combining DevOps and Security has been delivered via conferences and meetups.  This is a short list of the venues that have dedicated a portion of their agenda to it.
@@ -111,6 +115,7 @@ A body of knowledge for combining DevOps and Security has been delivered via con
 ## Podcasts
 A small collection of DevOps and Security podcasts.
 
+* [Arrested DevOps](https://www.arresteddevops.com/)
 * [Social Engineering Podcast](http://www.social-engineer.org/category/podcast/)
 * [Trusted Sec Podcast](https://www.trustedsec.com/podcast/)
 * [Defensive Security Podcast](http://www.defensivesecurity.org/)
@@ -119,11 +124,11 @@ A small collection of DevOps and Security podcasts.
 * [Down The Security Rabbithole](http://podcast.wh1t3rabbit.net/)
 * [OWASP 24/7](https://www.owasp.org/index.php/OWASP_Podcast)
 * [Take 1 Security Podcast](https://danielmiessler.com/podcast/)
-* [Arrested DevOps](https://www.arresteddevops.com/)
 * [DevOps Cafe](http://devopscafe.org/)
 * [Food Fight Show](http://foodfightshow.org/)
 * [The Ship Show](http://theshipshow.com/)
 * [Risky Business](http://risky.biz/)
+* [The Secure Developer](http://www.heavybit.com/library/podcasts/the-secure-developer/)
 
 ## Books
 Books focussed around DevSecOps, bringing the security focus up front.
@@ -215,6 +220,7 @@ To support security as code, sensitive credentials and secrets need to be manage
 * [BlackBox](https://github.com/StackExchange/blackbox)
 * [Transcrypt](https://github.com/elasticdog/transcrypt)
 * [Keybase](https://keybase.io)
+* [Git Secrets](https://github.com/awslabs/git-secrets)
 
 ## Red Team
 These are tools that we find helpful during Red Team and War Game exercises.  The projects in this section help with reconnaissance, exploit development, and other activities common within the Kill Chain.
