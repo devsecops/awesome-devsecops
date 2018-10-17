@@ -62,6 +62,7 @@ There are a variety of initiatives underway to migrate security and compliance i
 * [AWS Labs](https://github.com/awslabs)
 * [DevOps Audit Defense Toolkit](https://plus.google.com/communities/103372669680429508474)
 * [DevSecOps](http://devsecops.org)
+* [OpenDevSecOps](https://opendevsecops.org)
 * [Rugged DevOps](http://www.ruggedsoftware.org)
 
 
@@ -186,6 +187,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [BDD Security](https://www.continuumsecurity.net/bdd-security/)
 * [Brakeman](http://brakemanscanner.org)
 * [Chef Inspec](https://github.com/chef/inspec)
+* [Cohesion](https://secapps.com/cohesion)
 * [David](https://david-dm.org/)
 * [Gauntlt](http://gauntlt.org/)
 * [Hakiri](https://hakiri.io)
