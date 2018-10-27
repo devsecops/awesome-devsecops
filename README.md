@@ -122,6 +122,7 @@ A body of knowledge for combining DevOps and Security has been delivered via con
 * [IP Expo](http://www.ipexpoeurope.com/)
 * [ISACA Ireland](http://www.isaca.org/chapters5/Ireland/conference/pages/Agenda.aspx)
 * [RSA Conference](http://www.rsaconference.com)
+* [All Day DevOps](https://www.alldaydevops.com/)
 
 
 ## Podcasts
