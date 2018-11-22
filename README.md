@@ -43,6 +43,7 @@ We've been working across the industry to learn more about the different types o
 ## Guidelines
 While we're not into the paper-way of doing things, sharing sound advice and good recommendations can make software stronger.  We aim to make these guidelines better through code.
 
+* [Introduction to DevSecOps - DZone Refcard](https://dzone.com/refcardz/introduction-to-devsecops)
 * [Security Champions Playbook](https://github.com/c0rdis/security-champions-playbook)
 * [Security Guide for Web Developers](https://github.com/FallibleInc/security-guide-for-developers)
 
@@ -188,6 +189,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [BDD Security](https://www.continuumsecurity.net/bdd-security/)
 * [Brakeman](http://brakemanscanner.org)
 * [Chef Inspec](https://github.com/chef/inspec)
+* [Contrast Security](https://www.contrastsecurity.com)
 * [Cohesion](https://secapps.com/cohesion)
 * [David](https://david-dm.org/)
 * [Gauntlt](http://gauntlt.org/)
