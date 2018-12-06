@@ -253,6 +253,7 @@ To support security as code, sensitive credentials and secrets need to be manage
 * [Transcrypt](https://github.com/elasticdog/transcrypt)
 * [Vault](https://www.hashicorp.com/blog/vault.html)
 
+
 ## Red Team
 These are tools that we find helpful during Red Team and War Game exercises.  The projects in this section help with reconnaissance, exploit development, and other activities common within the Kill Chain.
 
@@ -278,6 +279,7 @@ One of the greatest changes you can make in your organization is boundaryless co
 
 * [Gitter](https://gitter.im)
 * [HipChat](https://hipchat.com)
+* [MatterMost](https://mattermost.com/)
 * [Riot](https://riot.im/)
 * [Slack](https://slack.com)
 
