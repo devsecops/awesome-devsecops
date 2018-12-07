@@ -266,6 +266,7 @@ Making DevSecOps discoveries is already hard enough with all the APIs and Comman
 
 * [Gephi](https://gephi.org)
 * [ShadowBuster](https://github.com/indeedops/ShadowBuster)
+* [Wazuh](https://wazuh.com/)
 
 ## Sharing
 A collection of tools to help with sharing knowledge and telling the story.
