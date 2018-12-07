@@ -145,7 +145,6 @@ A small collection of DevOps and Security podcasts.
 * [The Secure Developer](http://www.heavybit.com/library/podcasts/the-secure-developer/)
 * [Trusted Sec Podcast](https://www.trustedsec.com/podcast/)
 
-
 ## Books
 Books focussed around DevSecOps, bringing the security focus up front.
 
@@ -276,7 +275,7 @@ A collection of tools to help with sharing knowledge and telling the story.
 
 
 ## ChatOps
-One of the greatest changes you can make in your organization is boundaryless communications.  Setting up ChatOps can enable everyone to come together and solve problems.  
+One of the greatest changes you can make in your organization is boundaryless communications.  Setting up ChatOps can enable everyone to come together and solve problems.
 
 * [Gitter](https://gitter.im)
 * [HipChat](https://hipchat.com)
