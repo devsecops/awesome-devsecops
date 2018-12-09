@@ -251,7 +251,8 @@ To support security as code, sensitive credentials and secrets need to be manage
 * [Sops](https://github.com/mozilla/sops)
 * [Transcrypt](https://github.com/elasticdog/transcrypt)
 * [Vault](https://www.hashicorp.com/blog/vault.html)
-
+* [Conjur](https://github.com/cyberark/conjur)
+  
 ## Red Team
 These are tools that we find helpful during Red Team and War Game exercises.  The projects in this section help with reconnaissance, exploit development, and other activities common within the Kill Chain.
 
