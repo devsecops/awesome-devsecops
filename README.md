@@ -147,7 +147,6 @@ A small collection of DevOps and Security podcasts.
 * [The Secure Developer](http://www.heavybit.com/library/podcasts/the-secure-developer/)
 * [Trusted Sec Podcast](https://www.trustedsec.com/podcast/)
 
-
 ## Books
 Books focussed around DevSecOps, bringing the security focus up front.
 
@@ -248,11 +247,13 @@ DevSecOps requires a common attack modeling capability that can be done at speed
 To support security as code, sensitive credentials and secrets need to be managed, security, maintained and rotated using automation.  The projects below provide DevOps teams with some good options for securing sensitive details used in building and deploying full stack software deployments.
 
 * [BlackBox](https://github.com/StackExchange/blackbox)
+* [CredStash](https://github.com/fugue/credstash)
 * [Git Secrets](https://github.com/awslabs/git-secrets)
 * [Keybase](https://keybase.io)
 * [Sops](https://github.com/mozilla/sops)
 * [Transcrypt](https://github.com/elasticdog/transcrypt)
 * [Vault](https://www.hashicorp.com/blog/vault.html)
+
 
 ## Red Team
 These are tools that we find helpful during Red Team and War Game exercises.  The projects in this section help with reconnaissance, exploit development, and other activities common within the Kill Chain.
@@ -266,6 +267,7 @@ Making DevSecOps discoveries is already hard enough with all the APIs and Comman
 
 * [Gephi](https://gephi.org)
 * [ShadowBuster](https://github.com/indeedops/ShadowBuster)
+* [Wazuh](https://wazuh.com/)
 
 ## Sharing
 A collection of tools to help with sharing knowledge and telling the story.
@@ -275,11 +277,10 @@ A collection of tools to help with sharing knowledge and telling the story.
 
 
 ## ChatOps
-One of the greatest changes you can make in your organization is boundaryless communications.  Setting up ChatOps can enable everyone to come together and solve problems.  
+One of the greatest changes you can make in your organization is boundaryless communications.  Setting up ChatOps can enable everyone to come together and solve problems.
 
 * [Gitter](https://gitter.im)
 * [HipChat](https://hipchat.com)
+* [MatterMost](https://mattermost.com/)
 * [Riot](https://riot.im/)
 * [Slack](https://slack.com)
-
-
