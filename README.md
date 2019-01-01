@@ -46,6 +46,8 @@ While we're not into the paper-way of doing things, sharing sound advice and goo
 * [Introduction to DevSecOps - DZone Refcard](https://dzone.com/refcardz/introduction-to-devsecops)
 * [Security Champions Playbook](https://github.com/c0rdis/security-champions-playbook)
 * [Security Guide for Web Developers](https://github.com/FallibleInc/security-guide-for-developers)
+* [A practical guide to build DAST with OWASP Zap](https://github.com/Soluto/owasp-zap-glue-ci-images)
+* [Introduction to security testing and tools](https://www.omerlh.info/2018/10/04/write-good-code-with-security-tests/)
 
 
 ## Presentations
