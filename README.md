@@ -75,6 +75,7 @@ We've discovered a treasure trove of mailing lists and newsletters where DevSecO
 
 * [Ruby Weekly](http://rubyweekly.com)
 * [Security Newsletter](https://securitynewsletter.co/)
+* [SRE Weekly](https://sreweekly.com/)
 
 ## Wardley Maps for Security
 One way for people to continue to evolve their capabilities and share common understanding is through the development of Wardley Maps.  We're collecting this information and providing some good examples here.
