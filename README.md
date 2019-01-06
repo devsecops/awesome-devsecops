@@ -197,6 +197,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [David](https://david-dm.org/)
 * [Gauntlt](http://gauntlt.org/)
 * [Hakiri](https://hakiri.io)
+* [HusckyCI](https://github.com/globocom/huskyci)
 * [Infer](http://fbinfer.com/)
 * [IronWASP](https://ironwasp.org/)
 * [Lynis](https://cisofy.com/lynis/)
