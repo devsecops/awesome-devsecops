@@ -57,6 +57,7 @@ Many talks are now targeting the change of adding Security into the DevOps envir
 * [Mozilla's Test Driven Security in Continuous Integration](https://www.youtube.com/watch?v=e2axToBYD68)
 * [Security DevOps - staying secure in agile projects](https://christian-schneider.net/slides/OWASP-AppSecEU-2015_SecDevOps.pdf)
 * [Veracode's Defending the Cloud from a Full Stack Hack](https://www.rsaconference.com/writable/presentations/file_upload/csv-w03-_defending-the-cloud-from-the-full-stack-hack.pdf)
+* [Put Your Robots to Work: Security Automation at Twitter](https://vimeo.com/54250716)
 
 
 ## Initiatives
@@ -74,6 +75,7 @@ We've discovered a treasure trove of mailing lists and newsletters where DevSecO
 
 * [Ruby Weekly](http://rubyweekly.com)
 * [Security Newsletter](https://securitynewsletter.co/)
+* [SRE Weekly](https://sreweekly.com/)
 
 ## Wardley Maps for Security
 One way for people to continue to evolve their capabilities and share common understanding is through the development of Wardley Maps.  We're collecting this information and providing some good examples here.
@@ -195,6 +197,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [David](https://david-dm.org/)
 * [Gauntlt](http://gauntlt.org/)
 * [Hakiri](https://hakiri.io)
+* [HusckyCI](https://github.com/globocom/huskyci)
 * [Infer](http://fbinfer.com/)
 * [IronWASP](https://ironwasp.org/)
 * [Lynis](https://cisofy.com/lynis/)
