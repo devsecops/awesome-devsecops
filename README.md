@@ -177,6 +177,7 @@ Automation platforms have an advantage of providing for scripted remediation whe
 This list of tools provide the capabilities necessary for finding security anomalies and identifying rules that should be automated and extended to support scale demands.
 
 * [GRR](https://github.com/google/grr)
+* [kube-hunter](https://github.com/aquasecurity/kube-hunter)
 * [mig](https://github.com/mozilla/mig)
 * [Mirador](http://fathom.info/mirador/)
 * [moloch](https://github.com/aol/moloch)
@@ -200,7 +201,9 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [HusckyCI](https://github.com/globocom/huskyci)
 * [Infer](http://fbinfer.com/)
 * [IronWASP](https://ironwasp.org/)
+* [kube-bench](https://github.com/aquasecurity/kube-bench)
 * [Lynis](https://cisofy.com/lynis/)
+* [microscanner](https://github.com/aquasecurity/microscanner)
 * [Node Security Platform](https://nodesecurity.io/)
 * [npm-check](https://www.npmjs.com/package/npm-check)
 * [npm-outdated](https://docs.npmjs.com/cli/outdated)
