@@ -109,7 +109,7 @@ It's important to build up knowledge by learning how to break applications left 
 * [Metasploitable](https://community.rapid7.com/docs/DOC-1875) (Linux)
 * [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10) (PHP)
 * [NodeGoat](https://github.com/owasp/nodegoat) (Node)
-* [OWASP Juice Shop](https://github.com/OWASP/glue) (NodeJS/Angular)
+* [OWASP Juice Shop](https://github.com/bkimminich/juice-shop) (NodeJS/Angular)
 * [RailsGoat](https://github.com/OWASP/railsgoat) (Rails)
 * [WebGoat](https://github.com/WebGoat/WebGoat) (Web App)
 * [WebGoat.Net](https://github.com/OWASP/WebGoat.NET) (.NET)
