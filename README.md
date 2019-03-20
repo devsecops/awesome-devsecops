@@ -120,6 +120,7 @@ It's important to build up knowledge by learning how to break applications left 
 A body of knowledge for combining DevOps and Security has been delivered via conferences and meetups.  This is a short list of the venues that have dedicated a portion of their agenda to it.
 
 * [AWS re:Invent](https://reinvent.awsevents.com)
+* [AWS re:Inforce](https://reinforce.awsevents.com/)
 * [DevSecCon](http://devseccon.com)
 * [DevOps Connect](http://www.devopsconnect.com/)
 * [DevOps Days](http://www.devopsdays.org/)
