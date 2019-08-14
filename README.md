@@ -64,7 +64,7 @@ Many talks are now targeting the change of adding Security into the DevOps envir
 There are a variety of initiatives underway to migrate security and compliance into DevOps.  We've included links for active projects here:
 
 * [AWS Labs](https://github.com/awslabs)
-* [DevOps Audit Defense Toolkit](https://plus.google.com/communities/103372669680429508474)
+* [DevOps and Audit Resources](https://itsanicelife.com/2017/03/13/devops-and-audit-resources/)
 * [DevSecOps](http://devsecops.org)
 * [OpenDevSecOps](https://opendevsecops.org)
 * [Rugged DevOps](http://www.ruggedsoftware.org)
