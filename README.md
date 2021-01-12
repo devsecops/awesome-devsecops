@@ -153,9 +153,10 @@ A small collection of DevOps and Security podcasts.
 Books focussed around DevSecOps, bringing the security focus up front.
 
 * [DevOpsSec](http://www.oreilly.com/webops-perf/free/devopssec.csp)
-* [Docker Securitiy - Quick Reference](https://binarymist.io/publication/docker-security/)
+* [Docker Security - Quick Reference](https://binarymist.io/publication/docker-security/)
 * [Holistic Info-Sec for Web Developers](https://leanpub.com/b/holisticinfosecforwebdevelopers)
 * [Securing DevOps](https://securing-devops.com/book)
+* [Pipeline as Code](https://www.manning.com/books/pipeline-as-code)
 
 # Tools
 This collection of tools are useful in establishing a DevSecOps platform.  We have divided the tools into several categories that help with the different divisions of DevSecOps.
