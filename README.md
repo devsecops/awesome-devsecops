@@ -266,6 +266,8 @@ These are tools that we find helpful during Red Team and War Game exercises.  Th
 
 * [EyeWitness](https://github.com/ChrisTruncer/EyeWitness)
 * [Hound](https://github.com/etsy/hound)
+* [OWASP AMASS](https://github.com/OWASP/Amass)
+* [hackingthe.cloud](https://hackingthe.cloud/)
 
 
 ## Visualization
