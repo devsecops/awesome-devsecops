@@ -198,7 +198,6 @@ This list of tools provide the capabilities necessary for finding security anoma
 ## Testing
 Testing is an essential element of a DevSecOps program because it helps to prepare teams for Rugged operations and to determine security defects before they can be exploited.
 
-* [BDD Security](https://www.continuumsecurity.net/bdd-security/)
 * [Brakeman](http://brakemanscanner.org)
 * [Checkov](https://github.com/bridgecrewio/checkov/)
 * [Chef Inspec](https://github.com/chef/inspec)
