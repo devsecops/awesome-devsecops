@@ -260,6 +260,7 @@ DevSecOps requires a common attack modeling capability that can be done at speed
 To support security as code, sensitive credentials and secrets need to be managed, security, maintained and rotated using automation.  The projects below provide DevOps teams with some good options for securing sensitive details used in building and deploying full stack software deployments.
 
 * [BlackBox](https://github.com/StackExchange/blackbox)
+* [Conjur](https://github.com/cyberark/conjur)
 * [CredStash](https://github.com/fugue/credstash)
 * [Git Secrets](https://github.com/awslabs/git-secrets)
 * [Keybase](https://keybase.io)
