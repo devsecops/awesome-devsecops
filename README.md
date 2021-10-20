@@ -178,6 +178,7 @@ Automation platforms have an advantage of providing for scripted remediation whe
 * [Demisto](https://www.demisto.com/community/)
 * [OWASP Glue](https://github.com/OWASP/glue)
 * [StackStorm](https://github.com/StackStorm/st2)
+* [Insider CLI](https://github.com/insidersec/insider)
 
 ## Hunting
 This list of tools provide the capabilities necessary for finding security anomalies and identifying rules that should be automated and extended to support scale demands.
