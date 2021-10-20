@@ -73,6 +73,8 @@ There are a variety of initiatives underway to migrate security and compliance i
 ## Keeping Informed
 We've discovered a treasure trove of mailing lists and newsletters where DevSecOps like us are sharing their skills and insights.  
 
+* [AWS Security](https://aws.amazon.com/security/)
+* [Azure Security](https://azure.microsoft.com/en-us/overview/security/)
 * [Ruby Weekly](http://rubyweekly.com)
 * [Security Newsletter](https://securitynewsletter.co/)
 * [SRE Weekly](https://sreweekly.com/)
@@ -109,6 +111,7 @@ It's important to build up knowledge by learning how to break applications left 
 * [Metasploitable](https://community.rapid7.com/docs/DOC-1875) (Linux)
 * [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10) (PHP)
 * [NodeGoat](https://github.com/owasp/nodegoat) (Node)
+* [OWASP Damn Vulnerable Serverless Application (DVSA)](https://github.com/owasp/dvsa) (AWS Serverless)
 * [OWASP Juice Shop](https://github.com/OWASP/glue) (NodeJS/Angular)
 * [RailsGoat](https://github.com/OWASP/railsgoat) (Rails)
 * [WebGoat](https://github.com/WebGoat/WebGoat) (Web App)
@@ -119,6 +122,7 @@ It's important to build up knowledge by learning how to break applications left 
 ## Conferences
 A body of knowledge for combining DevOps and Security has been delivered via conferences and meetups.  This is a short list of the venues that have dedicated a portion of their agenda to it.
 
+* [AWS re:Inforce](https://reinforce.awsevents.com/)
 * [AWS re:Invent](https://reinvent.awsevents.com)
 * [DevSecCon](http://devseccon.com)
 * [DevOps Connect](http://www.devopsconnect.com/)
@@ -156,6 +160,7 @@ Books focussed around DevSecOps, bringing the security focus up front.
 * [Docker Securitiy - Quick Reference](https://binarymist.io/publication/docker-security/)
 * [Holistic Info-Sec for Web Developers](https://leanpub.com/b/holisticinfosecforwebdevelopers)
 * [Securing DevOps](https://securing-devops.com/book)
+* [The DevOps Handbook (Section VI)](https://www.oreilly.com/library/view/the-devops-handbook/9781457191381/)
 
 # Tools
 This collection of tools are useful in establishing a DevSecOps platform.  We have divided the tools into several categories that help with the different divisions of DevSecOps.
