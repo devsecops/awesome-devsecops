@@ -52,7 +52,7 @@ While we're not into the paper-way of doing things, sharing sound advice and goo
 
 
 ## Presentations
-Many talks are now targeting the change of adding Security into the DevOps environment.  We've added some of the most notable ones here.    
+Many talks are now targeting the change of adding Security into the DevOps environment.  We've added some of the most notable ones here.
 
 * [DevSecOps: Taking a DevOps Approach to Security](https://www.slideshare.net/AlertLogic/alert-logic-and-chef-dev-ops-webinar)
 * [Mozilla's Test Driven Security in Continuous Integration](https://www.youtube.com/watch?v=e2axToBYD68)
@@ -73,7 +73,7 @@ There are a variety of initiatives underway to migrate security and compliance i
 
 
 ## Keeping Informed
-We've discovered a treasure trove of mailing lists and newsletters where DevSecOps like us are sharing their skills and insights.  
+We've discovered a treasure trove of mailing lists and newsletters where DevSecOps like us are sharing their skills and insights.
 
 * [AWS Security](https://aws.amazon.com/security/)
 * [Azure Security](https://azure.microsoft.com/en-us/overview/security/)
@@ -285,6 +285,7 @@ Making DevSecOps discoveries is already hard enough with all the APIs and Comman
 * [Gephi](https://gephi.org)
 * [ShadowBuster](https://github.com/indeedops/ShadowBuster)
 * [Wazuh](https://wazuh.com/)
+* [Brainboard](https://www.brainboard.co)
 
 ## Sharing
 A collection of tools to help with sharing knowledge and telling the story.
