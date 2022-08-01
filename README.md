@@ -119,6 +119,7 @@ It's important to build up knowledge by learning how to break applications left 
 * [WebGoat](https://github.com/WebGoat/WebGoat) (Web App)
 * [WebGoat.Net](https://github.com/OWASP/WebGoat.NET) (.NET)
 * [WebGoatPHP](https://github.com/OWASP/OWASPWebGoatPHP) (PHP)
+* [cicd-goat](https://github.com/cider-security-research/cicd-goat) (CI/CD)
 
 
 ## Conferences
