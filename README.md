@@ -238,10 +238,11 @@ Once you discover something important, response time is critical and essential t
 * [MozDef](https://github.com/mozilla/MozDef)
 
 ## Threat Intelligence
-There are many sources for Threat Intelligence in the world.  Some of these come from IP Intelligence and others from Malware repositories.  This category contains tools that are useful in capturing threat intelligence and collating it.
+There are many sources for Threat Intelligence in the world.  Some of these come from IP and Domain Intelligence and others from Malware repositories.  This category contains tools that are useful in capturing threat intelligence and collating it.
 
 * [Alien Vault OTX](https://otx.alienvault.com/)
 * [Critical Stack](https://intel.criticalstack.com)
+* [Deepinfo](https://deepinfo.com)
 * [IBM X-Force](https://exchange.xforce.ibmcloud.com)
 * [IntelMQ Feeds](https://github.com/certtools/intelmq-feeds-documentation)
 * [OpenTPX](https://www.opentpx.org)
