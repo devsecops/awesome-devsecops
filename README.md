@@ -237,6 +237,16 @@ Once you discover something important, response time is critical and essential t
 * [Elastalert](https://github.com/yelp/elastalert)
 * [MozDef](https://github.com/mozilla/MozDef)
 
+
+## Fixing
+Finding security issues is crucial, but fixing them promptly is just as important.  These links include automatic code remediation tools that integrate seamlessly into your CI/CD workflows, enabling fast, efficient, and scalable fixes for common vulnerabilities.
+
+* [Mobb](https://mobb.ai)
+* [Seal Security](https://www.seal.security/)
+* [Semgrep Assistant](https://semgrep.dev/products/semgrep-code/assistant)
+* [Snyk Fix](https://docs.snyk.io/snyk-cli/scan-and-maintain-projects-using-the-cli/automatic-fixing-with-snyk-fix)
+
+
 ## Threat Intelligence
 There are many sources for Threat Intelligence in the world.  Some of these come from IP Intelligence and others from Malware repositories.  This category contains tools that are useful in capturing threat intelligence and collating it.
 
