@@ -185,6 +185,7 @@ Automation platforms have an advantage of providing for scripted remediation whe
 This list of tools provide the capabilities necessary for finding security anomalies and identifying rules that should be automated and extended to support scale demands.
 
 * [GRR](https://github.com/google/grr)
+* [Jibril](https://jibril.garnet.ai)
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter)
 * [mig](https://github.com/mozilla/mig)
 * [Mirador](http://fathom.info/mirador/)
