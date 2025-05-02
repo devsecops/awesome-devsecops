@@ -270,7 +270,7 @@ To support security as code, sensitive credentials and secrets need to be manage
 * [Sops](https://github.com/mozilla/sops)
 * [Transcrypt](https://github.com/elasticdog/transcrypt)
 * [Vault](https://www.hashicorp.com/blog/vault.html)
-
+* [VaultScan – Community Edition](https://github.com/vaultscan/vaultscan-community): A lightweight, privacy-first secrets scanner for local/offline use. Built for DevOps and CI/CD. No agents. No cloud.
 
 ## Red Team
 These are tools that we find helpful during Red Team and War Game exercises.  The projects in this section help with reconnaissance, exploit development, and other activities common within the Kill Chain.
