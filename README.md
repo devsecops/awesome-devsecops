@@ -172,6 +172,7 @@ Visualization is an important element of identifying, sharing and evolving the s
 
 * [Grafana](http://grafana.org/)
 * [Kibana](https://www.elastic.co/products/kibana)
+* [Middleware](https://middleware.io)
 
 ## Automation
 Automation platforms have an advantage of providing for scripted remediation when security defects are surfaced.
