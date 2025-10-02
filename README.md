@@ -180,6 +180,7 @@ Automation platforms have an advantage of providing for scripted remediation whe
 * [OWASP Glue](https://github.com/OWASP/glue)
 * [StackStorm](https://github.com/StackStorm/st2)
 * [Insider CLI](https://github.com/insidersec/insider)
+* [APort](https://aport.io) (P) - Agent identity verification and policy enforcement platform: portable agent passports with capabilities & limits, pre-built policy packs (refunds, data export, PR merges), sub-100ms real-time verification with global suspend, multi-level assurance (Email, GitHub, Domain), and platform-agnostic integrations.
 
 ## Hunting
 This list of tools provide the capabilities necessary for finding security anomalies and identifying rules that should be automated and extended to support scale demands.
