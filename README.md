@@ -163,6 +163,7 @@ Books focussed around DevSecOps, bringing the security focus up front.
 * [Holistic Info-Sec for Web Developers](https://leanpub.com/b/holisticinfosecforwebdevelopers)
 * [Securing DevOps](https://securing-devops.com/book)
 * [The DevOps Handbook (Section VI)](https://www.oreilly.com/library/view/the-devops-handbook/9781457191381/)
+* [Effective Platform Engineering](https://www.manning.com/books/effective-platform-engineering)
 
 # Tools
 This collection of tools are useful in establishing a DevSecOps platform.  We have divided the tools into several categories that help with the different divisions of DevSecOps.
