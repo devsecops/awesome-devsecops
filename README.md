@@ -227,6 +227,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [ShiftLeft Scan](https://slscan.io)
 * [Snyk](https://snyk.io)
 * [SourceClear](https://www.sourceclear.com)
+* [NPM Scan](https://npmscan.com) - Real-time npm package malware scanner and supply-chain analyzer. Detects malicious scripts, obfuscation, hidden installs, abandoned maintainers, and suspicious behavior.
 
 
 ## Alerting
