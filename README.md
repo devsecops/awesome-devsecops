@@ -241,6 +241,7 @@ Once you discover something important, response time is critical and essential t
 There are many sources for Threat Intelligence in the world.  Some of these come from IP Intelligence and others from Malware repositories.  This category contains tools that are useful in capturing threat intelligence and collating it.
 
 * [Alien Vault OTX](https://otx.alienvault.com/)
+* [autosecure](https://github.com/vincentkoc/autosecure) - Shell-based firewall automation for Linux and macOS that applies curated threat-feed blocklists to iptables, nftables, and pf.
 * [Critical Stack](https://intel.criticalstack.com)
 * [IBM X-Force](https://exchange.xforce.ibmcloud.com)
 * [IntelMQ Feeds](https://github.com/certtools/intelmq-feeds-documentation)
