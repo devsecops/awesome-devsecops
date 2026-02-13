@@ -73,9 +73,10 @@ There are a variety of initiatives underway to migrate security and compliance i
 
 
 ## Keeping Informed
-We've discovered a treasure trove of mailing lists and newsletters where DevSecOps like us are sharing their skills and insights.  
+We've discovered a treasure trove of mailing lists and newsletters where DevSecOps like us are sharing their skills and insights.
 
 * [AWS Security](https://aws.amazon.com/security/)
+* [sase.cloud](https://sase.cloud) - Independent SASE & SSE knowledge base with Zero Trust deployment guides, vendor comparisons, and component deep-dives (ZTNA, SWG, CASB, DLP).
 * [Azure Security](https://azure.microsoft.com/en-us/overview/security/)
 * [Ruby Weekly](http://rubyweekly.com)
 * [Security Newsletter](https://securitynewsletter.co/)
