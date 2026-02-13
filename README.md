@@ -80,6 +80,7 @@ We've discovered a treasure trove of mailing lists and newsletters where DevSecO
 * [Ruby Weekly](http://rubyweekly.com)
 * [Security Newsletter](https://securitynewsletter.co/)
 * [SRE Weekly](https://sreweekly.com/)
+* [sase.cloud](https://sase.cloud) - Independent SASE/SSE knowledge base covering Zero Trust, SWG, CASB, and cloud security architecture.
 
 ## Wardley Maps for Security
 One way for people to continue to evolve their capabilities and share common understanding is through the development of Wardley Maps.  We're collecting this information and providing some good examples here.
