@@ -270,6 +270,7 @@ To support security as code, sensitive credentials and secrets need to be manage
 * [Sops](https://github.com/mozilla/sops)
 * [Transcrypt](https://github.com/elasticdog/transcrypt)
 * [Vault](https://www.hashicorp.com/blog/vault.html)
+* [MOSS](https://pypi.org/project/moss-sdk/) - Cryptographic signing for AI agents using ML-DSA-44 post-quantum signatures. Creates tamper-proof audit trails for AI-powered DevOps automation, enabling attribution and compliance.
 
 
 ## Red Team
