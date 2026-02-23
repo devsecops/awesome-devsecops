@@ -224,6 +224,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [PureSec (Serverless Security)](https://www.puresec.io/)
 * [RetireJS](https://github.com/RetireJS/retire.js)
 * [RIPS](http://rips-scanner.sourceforge.net/)
+* [segspec](https://github.com/dormstern/segspec) - Extract network dependencies from app configs and generate Kubernetes NetworkPolicies
 * [ShiftLeft Scan](https://slscan.io)
 * [Snyk](https://snyk.io)
 * [SourceClear](https://www.sourceclear.com)
