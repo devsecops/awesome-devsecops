@@ -267,7 +267,7 @@ To support security as code, sensitive credentials and secrets need to be manage
 * [CredStash](https://github.com/fugue/credstash)
 * [Git Secrets](https://github.com/awslabs/git-secrets)
 * [Keybase](https://keybase.io)
-* [KeyEnv](https://github.com/keyenv/keyenv)
+* [KeyEnv](https://keyenv.dev)
 * [Sops](https://github.com/mozilla/sops)
 * [Transcrypt](https://github.com/elasticdog/transcrypt)
 * [Vault](https://www.hashicorp.com/blog/vault.html)
