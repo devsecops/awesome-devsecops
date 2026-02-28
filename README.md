@@ -221,6 +221,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 * [OWASP ZAP Node API](https://github.com/zaproxy/zap-api-nodejs)
 * [Progpilot](https://github.com/designsecurity/progpilot)
+* [releaserun](https://github.com/Releaserun/releaserun-cli) - Scans project dependencies for end-of-life runtimes, known CVEs, and version health grades. Supports package.json, requirements.txt, go.mod, Cargo.toml, Gemfile, and pom.xml.
 * [PureSec (Serverless Security)](https://www.puresec.io/)
 * [RetireJS](https://github.com/RetireJS/retire.js)
 * [RIPS](http://rips-scanner.sourceforge.net/)
