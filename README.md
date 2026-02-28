@@ -198,7 +198,8 @@ This list of tools provide the capabilities necessary for finding security anoma
 ## Testing
 Testing is an essential element of a DevSecOps program because it helps to prepare teams for Rugged operations and to determine security defects before they can be exploited.
 
-* [Brakeman](http://brakemanscanner.org)
+* [AIR Blackbox](https://github.com/airblackbox/air-blackbox-mcp) - EU AI Act compliance scanner for Python AI agents. Checks code against Articles 9, 10, 11, 12, 14, and 15 with prompt injection detection, PII tokenization, and HMAC-SHA256 audit chains. Supports LangChain, CrewAI, AutoGen, and OpenAI frameworks.
+* * [Brakeman](http://brakemanscanner.org)
 * [Checkov](https://github.com/bridgecrewio/checkov/)
 * [Chef Inspec](https://github.com/chef/inspec)
 * [Contrast Security](https://www.contrastsecurity.com)
