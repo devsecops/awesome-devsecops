@@ -227,6 +227,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [ShiftLeft Scan](https://slscan.io)
 * [Snyk](https://snyk.io)
 * [SourceClear](https://www.sourceclear.com)
+* [WAFtester](https://github.com/waftester/waftester) - WAF security testing CLI with 2800+ attack payloads, 197+ WAF vendor detection, bypass discovery with 70+ evasion techniques, and CI/CD integration via SARIF/SonarQube/GitLab SAST output.
 
 
 ## Alerting
