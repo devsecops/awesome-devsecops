@@ -206,6 +206,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [David](https://david-dm.org/)
 * [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper)
 * [Gauntlt](http://gauntlt.org/)
+* [Greywall](https://github.com/GreyhavenHQ/greywall) - Deny-by-default sandbox for AI agents with filesystem and network isolation.
 * [Hakiri](https://hakiri.io)
 * [HusckyCI](https://github.com/globocom/huskyci)
 * [Infer](http://fbinfer.com/)
