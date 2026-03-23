@@ -209,6 +209,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [Hakiri](https://hakiri.io)
 * [HusckyCI](https://github.com/globocom/huskyci)
 * [Infer](http://fbinfer.com/)
+* [Inkog](https://github.com/inkog-io/inkog) - Open-source security scanner for AI agents. Detects prompt injection, infinite loops, token bombing, and missing human oversight across 20+ frameworks. SARIF output for CI/CD integration. Maps findings to EU AI Act, OWASP LLM Top 10, and NIST AI RMF.
 * [IronWASP](https://ironwasp.org/)
 * [kube-bench](https://github.com/aquasecurity/kube-bench)
 * [Lynis](https://cisofy.com/lynis/)
