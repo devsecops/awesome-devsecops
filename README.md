@@ -209,6 +209,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [Hakiri](https://hakiri.io)
 * [HusckyCI](https://github.com/globocom/huskyci)
 * [Infer](http://fbinfer.com/)
+* [IntoDNS.ai](https://intodns.ai) - Free DNS and email security scanner. Checks SPF, DKIM, DMARC, DNSSEC with API for CI/CD pipelines.
 * [IronWASP](https://ironwasp.org/)
 * [kube-bench](https://github.com/aquasecurity/kube-bench)
 * [Lynis](https://cisofy.com/lynis/)
