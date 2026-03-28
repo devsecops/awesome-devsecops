@@ -227,7 +227,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [ShiftLeft Scan](https://slscan.io)
 * [Snyk](https://snyk.io)
 * [SourceClear](https://www.sourceclear.com)
-
+* [VEXLIT](https://github.com/vexlit/cli) - AST-based SAST with taint analysis across 34 languages. Tracks data flow across functions with zero-config CLI and SARIF output.
 
 ## Alerting
 Once you discover something important, response time is critical and essential to the Incident Response required to remediate a security defect.  These links include some of the projects that provide for Alerting and Notifications.
