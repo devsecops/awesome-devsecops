@@ -265,6 +265,7 @@ To support security as code, sensitive credentials and secrets need to be manage
 * [BlackBox](https://github.com/StackExchange/blackbox)
 * [Conjur](https://github.com/cyberark/conjur)
 * [CredStash](https://github.com/fugue/credstash)
+* [push-sentinel](https://github.com/Pmaind/pre-push-secrets)
 * [Git Secrets](https://github.com/awslabs/git-secrets)
 * [Keybase](https://keybase.io)
 * [Sops](https://github.com/mozilla/sops)
