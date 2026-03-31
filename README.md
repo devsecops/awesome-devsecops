@@ -207,6 +207,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper)
 * [Gauntlt](http://gauntlt.org/)
 * [Hakiri](https://hakiri.io)
+* [HefestoAI](https://github.com/artvepa80/Agents-Hefesto) - AI-powered code quality guardian for AI-generated code. Semantic drift detection + security scanning across 21 formats. Pre-commit + MCP server.
 * [HusckyCI](https://github.com/globocom/huskyci)
 * [Infer](http://fbinfer.com/)
 * [IronWASP](https://ironwasp.org/)
