@@ -33,6 +33,7 @@ This list will not be fully comprehensive and will change as DevSecOps matures. 
   - [Visualization](#visualization)
   - [Sharing](#sharing)
   - [ChatOps](#chatops)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including automated security scanning, vulnerability assessment, penetration testing, and DevSecOps pipeline orchestration. MIT licensed.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
