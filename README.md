@@ -227,6 +227,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [ShiftLeft Scan](https://slscan.io)
 * [Snyk](https://snyk.io)
 * [SourceClear](https://www.sourceclear.com)
+* [asqav](https://github.com/jagmarques/asqav-compliance) - AI compliance scanner for CI/CD pipelines. Detects EU AI Act violations, prompt injection risks, and missing guardrails in AI agent code. Available as a GitHub Action and Python SDK.
 
 
 ## Alerting
