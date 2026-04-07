@@ -180,6 +180,7 @@ Automation platforms have an advantage of providing for scripted remediation whe
 * [OWASP Glue](https://github.com/OWASP/glue)
 * [StackStorm](https://github.com/StackStorm/st2)
 * [Insider CLI](https://github.com/insidersec/insider)
+* [Asqav](https://github.com/jagmarques/asqav-sdk) - Open-source Python SDK for AI agent audit trails, compliance, and governance with quantum-safe signatures. Supports LangChain and CrewAI.
 
 ## Hunting
 This list of tools provide the capabilities necessary for finding security anomalies and identifying rules that should be automated and extended to support scale demands.
