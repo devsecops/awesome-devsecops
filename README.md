@@ -227,6 +227,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [ShiftLeft Scan](https://slscan.io)
 * [Snyk](https://snyk.io)
 * [SourceClear](https://www.sourceclear.com)
+* [vens](https://github.com/venslabs/vens) - Context-aware vulnerability risk scoring CLI that generates CycloneDX VEX with OWASP risk scores from Trivy/Grype reports using LLM analysis.
 
 
 ## Alerting
