@@ -180,6 +180,7 @@ Automation platforms have an advantage of providing for scripted remediation whe
 * [OWASP Glue](https://github.com/OWASP/glue)
 * [StackStorm](https://github.com/StackStorm/st2)
 * [Insider CLI](https://github.com/insidersec/insider)
+* [Asqav](https://github.com/jagmarques/asqav-sdk) - Open-source Python SDK for AI agent audit trails, compliance, and governance with quantum-safe signatures. Supports LangChain and CrewAI.
 
 ## Hunting
 This list of tools provide the capabilities necessary for finding security anomalies and identifying rules that should be automated and extended to support scale demands.
@@ -227,6 +228,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [ShiftLeft Scan](https://slscan.io)
 * [Snyk](https://snyk.io)
 * [SourceClear](https://www.sourceclear.com)
+* [asqav](https://github.com/jagmarques/asqav-compliance) - AI compliance scanner for CI/CD pipelines. Detects EU AI Act violations, prompt injection risks, and missing guardrails in AI agent code. Available as a GitHub Action and Python SDK.
 
 
 ## Alerting
