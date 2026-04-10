@@ -167,6 +167,7 @@ Books focussed around DevSecOps, bringing the security focus up front.
 # Tools
 This collection of tools are useful in establishing a DevSecOps platform.  We have divided the tools into several categories that help with the different divisions of DevSecOps.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=devsecops_awesome-devsecops) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ## Dashboards
 Visualization is an important element of identifying, sharing and evolving the security information that passes from the beginning of the creative process through to operations.
 
