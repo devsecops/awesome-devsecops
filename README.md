@@ -220,6 +220,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [OWASP OWTF](https://www.owasp.org/index.php/OWASP_OWTF)
 * [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 * [OWASP ZAP Node API](https://github.com/zaproxy/zap-api-nodejs)
+* [ZeroDAST](https://github.com/AlphaSudo/zerodast) - CI-first DAST orchestration framework wrapping OWASP ZAP with automated authentication (4 adapter styles), privilege-isolated CI architecture, delta-scoped PR scanning, and structured reporting. Proven on 7 external targets. Apache 2.0.
 * [Progpilot](https://github.com/designsecurity/progpilot)
 * [PureSec (Serverless Security)](https://www.puresec.io/)
 * [RetireJS](https://github.com/RetireJS/retire.js)
