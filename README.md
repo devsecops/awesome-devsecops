@@ -226,6 +226,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [RIPS](http://rips-scanner.sourceforge.net/)
 * [ShiftLeft Scan](https://slscan.io)
 * [Snyk](https://snyk.io)
+* [HackMyIP](https://hackmyip.com) - Free online security toolkit with 20+ tools: port scanner, DNS lookup, email breach checker, WebRTC/DNS leak tests, browser fingerprinting, and more. No API key required.
 * [SourceClear](https://www.sourceclear.com)
 
 
