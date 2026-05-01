@@ -243,6 +243,7 @@ There are many sources for Threat Intelligence in the world.  Some of these come
 * [Alien Vault OTX](https://otx.alienvault.com/)
 * [Critical Stack](https://intel.criticalstack.com)
 * [IBM X-Force](https://exchange.xforce.ibmcloud.com)
+* [IPASIS](https://ipasis.com/) - Real-time bot detection and fraud prevention API combining IP reputation, proxy/VPN detection, and email validation into a single API call. (P)
 * [IntelMQ Feeds](https://github.com/certtools/intelmq-feeds-documentation)
 * [OpenTPX](https://www.opentpx.org)
 * [Passive Total](https://www.passivetotal.org)
