@@ -222,6 +222,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [OWASP ZAP Node API](https://github.com/zaproxy/zap-api-nodejs)
 * [Progpilot](https://github.com/designsecurity/progpilot)
 * [PureSec (Serverless Security)](https://www.puresec.io/)
+* [QuantumScan](https://quantumscan.io/) - Post-quantum cryptography scanner for GitHub repos. Detects RSA, ECDSA, SHA-1 etc.; exports CycloneDX 1.7 CBOM + DORA/NIS2 PDF. Open-source scanner core (MIT).
 * [RetireJS](https://github.com/RetireJS/retire.js)
 * [RIPS](http://rips-scanner.sourceforge.net/)
 * [ShiftLeft Scan](https://slscan.io)
