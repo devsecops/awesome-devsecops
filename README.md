@@ -225,6 +225,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [RetireJS](https://github.com/RetireJS/retire.js)
 * [RIPS](http://rips-scanner.sourceforge.net/)
 * [ShiftLeft Scan](https://slscan.io)
+* [skill-audit-mcp](https://github.com/eltociear/skill-audit-mcp) - Static security scanner for MCP servers, AI agent skills, and plugins. 68 attack patterns across CRITICAL/HIGH/MEDIUM/LOW with SARIF output. Ships as a CLI, MCP server, GitHub Action (`uses: eltociear/skill-audit-mcp@v1`), and multi-arch Docker image (`ghcr.io/eltociear/skill-audit-mcp:v1`).
 * [Snyk](https://snyk.io)
 * [SourceClear](https://www.sourceclear.com)
 
