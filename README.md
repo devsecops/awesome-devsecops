@@ -270,6 +270,7 @@ To support security as code, sensitive credentials and secrets need to be manage
 * [Sops](https://github.com/mozilla/sops)
 * [Transcrypt](https://github.com/elasticdog/transcrypt)
 * [Vault](https://www.hashicorp.com/blog/vault.html)
+* [Envault](https://github.com/Coding-Dev-Tools/envault) - Environment variable vault with AES-256 encryption, team sharing, and rotation tracking. CLI-based .env secret management.
 
 
 ## Red Team
