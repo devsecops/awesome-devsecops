@@ -180,6 +180,7 @@ Automation platforms have an advantage of providing for scripted remediation whe
 * [OWASP Glue](https://github.com/OWASP/glue)
 * [StackStorm](https://github.com/StackStorm/st2)
 * [Insider CLI](https://github.com/insidersec/insider)
+* [API Auth Guard](https://github.com/Coding-Dev-Tools/apiauth) - API authentication guard that validates auth headers, detects missing security headers, and tests token expiration across endpoints.
 
 ## Hunting
 This list of tools provide the capabilities necessary for finding security anomalies and identifying rules that should be automated and extended to support scale demands.
