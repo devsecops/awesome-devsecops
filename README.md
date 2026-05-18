@@ -269,6 +269,7 @@ To support security as code, sensitive credentials and secrets need to be manage
 * [Keybase](https://keybase.io)
 * [Sops](https://github.com/mozilla/sops)
 * [Transcrypt](https://github.com/elasticdog/transcrypt)
+* [apiauth](https://github.com/coding-dev-tools/apiauth) - CLI to manage API keys, tokens, and JWTs with rotation and encrypted keystore
 * [Vault](https://www.hashicorp.com/blog/vault.html)
 
 
