@@ -269,6 +269,7 @@ To support security as code, sensitive credentials and secrets need to be manage
 * [Keybase](https://keybase.io)
 * [Sops](https://github.com/mozilla/sops)
 * [Transcrypt](https://github.com/elasticdog/transcrypt)
+* [envault](https://github.com/coding-dev-tools/envault) - CLI to sync, rotate, and manage .env files across environments securely
 * [Vault](https://www.hashicorp.com/blog/vault.html)
 
 
