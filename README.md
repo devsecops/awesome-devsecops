@@ -241,6 +241,7 @@ Once you discover something important, response time is critical and essential t
 There are many sources for Threat Intelligence in the world.  Some of these come from IP Intelligence and others from Malware repositories.  This category contains tools that are useful in capturing threat intelligence and collating it.
 
 * [Alien Vault OTX](https://otx.alienvault.com/)
+* [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/)
 * [Critical Stack](https://intel.criticalstack.com)
 * [IBM X-Force](https://exchange.xforce.ibmcloud.com)
 * [IntelMQ Feeds](https://github.com/certtools/intelmq-feeds-documentation)
