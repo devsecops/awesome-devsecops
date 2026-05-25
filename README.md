@@ -301,3 +301,4 @@ One of the greatest changes you can make in your organization is boundaryless co
 * [MatterMost](https://mattermost.com/)
 * [Riot](https://riot.im/)
 * [Slack](https://slack.com)
+- [HOL Guard - Local-first runtime security for AI coding agents (Codex, Claude Code, Cursor, Gemini, OpenCode)](https://github.com/hashgraph-online/hol-guard)
