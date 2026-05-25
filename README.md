@@ -89,6 +89,7 @@ One way for people to continue to evolve their capabilities and share common und
 * [Introduction to Wardley Maps](http://blog.gardeviance.org/2015/02/an-introduction-to-wardley-value-chain.html)
 * [Security Industry Example](http://blog.gardeviance.org/2014_08_01_archive.html)
 * [SOC Value Chain & Delivery Models](http://blog.blackswansecurity.com/2016/01/soc-value-chain-delivery-models/)
+- [HOL Guard - Local-first runtime security for AI coding agents (Codex, Claude Code, Cursor, Gemini, OpenCode)](https://github.com/hashgraph-online/hol-guard)
 
 
 # Training
