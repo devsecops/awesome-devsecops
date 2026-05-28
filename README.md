@@ -176,6 +176,7 @@ Visualization is an important element of identifying, sharing and evolving the s
 ## Automation
 Automation platforms have an advantage of providing for scripted remediation when security defects are surfaced.
 
+* [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and tool-calling workflows, helping DevSecOps teams enforce runtime policy before automated actions run.
 * [Demisto](https://www.demisto.com/community/)
 * [OWASP Glue](https://github.com/OWASP/glue)
 * [StackStorm](https://github.com/StackStorm/st2)
