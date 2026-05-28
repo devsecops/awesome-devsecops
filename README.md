@@ -225,6 +225,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [RetireJS](https://github.com/RetireJS/retire.js)
 * [RIPS](http://rips-scanner.sourceforge.net/)
 * [ShiftLeft Scan](https://slscan.io)
+* [SkilLock](https://github.com/skills-lock/skil-lock)
 * [Snyk](https://snyk.io)
 * [SourceClear](https://www.sourceclear.com)
 
