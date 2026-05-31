@@ -216,6 +216,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [Node Security Platform](https://nodesecurity.io/)
 * [npm-check](https://www.npmjs.com/package/npm-check)
 * [npm-outdated](https://docs.npmjs.com/cli/outdated)
+* [net-benchmark](https://github.com/net-benchmark/net-benchmark)
 * [OSS Fuzz](https://github.com/google/oss-fuzz)
 * [OWASP OWTF](https://www.owasp.org/index.php/OWASP_OWTF)
 * [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
