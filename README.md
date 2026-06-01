@@ -301,3 +301,4 @@ One of the greatest changes you can make in your organization is boundaryless co
 * [MatterMost](https://mattermost.com/)
 * [Riot](https://riot.im/)
 * [Slack](https://slack.com)
+- [AI Tools Hub](https://cloud1-d4g787x2022795b0b-1435432994.tcloudbaseapp.com/hub.html) - 21 free AI tools, one-time crypto payment, no subscriptions.
