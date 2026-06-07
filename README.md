@@ -206,6 +206,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [David](https://david-dm.org/)
 * [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper)
 * [Gauntlt](http://gauntlt.org/)
+* [gha-guard](https://github.com/agentlaunchops-ai/gha-guard)
 * [Hakiri](https://hakiri.io)
 * [HusckyCI](https://github.com/globocom/huskyci)
 * [Infer](http://fbinfer.com/)
