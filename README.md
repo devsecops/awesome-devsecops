@@ -258,6 +258,7 @@ DevSecOps requires a common attack modeling capability that can be done at speed
 * [SDL Threat Modeling Tool](https://www.microsoft.com/en-us/sdl/adopt/threatmodeling.aspx)
 * [SeaSponge](http://mozilla.github.io/seasponge/)
 * [Threat Risk Modeling](https://www.owasp.org/index.php/Threat_Risk_Modeling)
+* [Trent AI](https://trent.ai) (P)
 
 ## Secret Management
 To support security as code, sensitive credentials and secrets need to be managed, security, maintained and rotated using automation.  The projects below provide DevOps teams with some good options for securing sensitive details used in building and deploying full stack software deployments.
