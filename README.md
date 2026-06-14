@@ -225,6 +225,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [RetireJS](https://github.com/RetireJS/retire.js)
 * [RIPS](http://rips-scanner.sourceforge.net/)
 * [ShiftLeft Scan](https://slscan.io)
+* [CVE Lite CLI](https://github.com/OWASP/cve-lite-cli) - OWASP Incubator Project. Scans JavaScript and TypeScript lockfiles locally for vulnerable dependencies across npm, pnpm, Yarn, and Bun, with copy-and-run fix commands.
 * [Snyk](https://snyk.io)
 * [SourceClear](https://www.sourceclear.com)
 
