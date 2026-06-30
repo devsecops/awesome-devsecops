@@ -200,6 +200,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 
 * [Brakeman](http://brakemanscanner.org)
 * [Checkov](https://github.com/bridgecrewio/checkov/)
+* [DeploySafe](https://deploysafe.info) (P) - Security scanner for vibe-coded apps with 2,100+ checks, active exploitation, and AI fix prompts
 * [Chef Inspec](https://github.com/chef/inspec)
 * [Contrast Security](https://www.contrastsecurity.com)
 * [Cohesion](https://secapps.com/cohesion)
