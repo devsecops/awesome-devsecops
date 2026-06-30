@@ -220,6 +220,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [OWASP OWTF](https://www.owasp.org/index.php/OWASP_OWTF)
 * [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 * [OWASP ZAP Node API](https://github.com/zaproxy/zap-api-nodejs)
+* [Penetrify](https://www.penetrify.cloud/)
 * [Progpilot](https://github.com/designsecurity/progpilot)
 * [PureSec (Serverless Security)](https://www.puresec.io/)
 * [RetireJS](https://github.com/RetireJS/retire.js)
