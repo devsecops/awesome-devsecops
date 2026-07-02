@@ -301,3 +301,7 @@ One of the greatest changes you can make in your organization is boundaryless co
 * [MatterMost](https://mattermost.com/)
 * [Riot](https://riot.im/)
 * [Slack](https://slack.com)
+
+
+## Static Analysis
+- [ansede-static](https://github.com/mattybellx/Ansede) — Offline-first SAST with 96.3% CVE recall and 7.5x more findings than CodeQL.
