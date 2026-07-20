@@ -216,6 +216,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [Node Security Platform](https://nodesecurity.io/)
 * [npm-check](https://www.npmjs.com/package/npm-check)
 * [npm-outdated](https://docs.npmjs.com/cli/outdated)
+* [Observer](https://github.com/sanks205/getobserver) - Offline, single-binary CLI that unifies code, dependency (CVE), config and infra findings into one HTML report; emits SARIF + has a GitHub Action for CI.
 * [OSS Fuzz](https://github.com/google/oss-fuzz)
 * [OWASP OWTF](https://www.owasp.org/index.php/OWASP_OWTF)
 * [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
