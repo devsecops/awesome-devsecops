@@ -205,6 +205,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [Cohesion](https://secapps.com/cohesion)
 * [David](https://david-dm.org/)
 * [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper)
+* [ExploitSpec](https://github.com/pazent/exploitspec)
 * [Gauntlt](http://gauntlt.org/)
 * [Hakiri](https://hakiri.io)
 * [HusckyCI](https://github.com/globocom/huskyci)
