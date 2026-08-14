@@ -67,7 +67,7 @@ There are a variety of initiatives underway to migrate security and compliance i
 
 * [AWS Labs](https://github.com/awslabs)
 * [DevOps and Audit Resources](https://itsanicelife.com/2017/03/13/devops-and-audit-resources/)
-* [DevSecOps](http://devsecops.org)
+* [DevSecOps](https://devsecops.org)
 * [OpenDevSecOps](https://opendevsecops.org)
 * [Rugged DevOps](http://www.ruggedsoftware.org)
 
@@ -248,6 +248,7 @@ There are many sources for Threat Intelligence in the world.  Some of these come
 * [Passive Total](https://www.passivetotal.org)
 * [STIX, TAXII](https://oasis-open.github.io/cti-documentation/)
 * [Threat Connect](https://threatconnect.com/)
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 ## Attack Modeling
 DevSecOps requires a common attack modeling capability that can be done at speed and scale.  Thankfully there are efforts underway to create these useful taxonomies that help us operationalize attack modeling and defenses.
