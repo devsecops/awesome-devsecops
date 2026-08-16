@@ -227,6 +227,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [ShiftLeft Scan](https://slscan.io)
 * [Snyk](https://snyk.io)
 * [SourceClear](https://www.sourceclear.com)
+* [Web App Security Skill](https://github.com/parousia8888/web-app-security-skill)
 
 
 ## Alerting
