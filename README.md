@@ -270,6 +270,7 @@ To support security as code, sensitive credentials and secrets need to be manage
 * [Sops](https://github.com/mozilla/sops)
 * [Transcrypt](https://github.com/elasticdog/transcrypt)
 * [Vault](https://www.hashicorp.com/blog/vault.html)
+* [Vooda](https://github.com/virantisofficial/vooda.ai)
 
 
 ## Red Team
