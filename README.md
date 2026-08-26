@@ -44,6 +44,7 @@ We've been working across the industry to learn more about the different types o
 While we're not into the paper-way of doing things, sharing sound advice and good recommendations can make software stronger.  We aim to make these guidelines better through code.
 
 * [Introduction to DevSecOps - DZone Refcard](https://dzone.com/refcardz/introduction-to-devsecops)
+* [Aegis Skills](https://github.com/AS-FOSS/aegis-skills) - Agent-executable defensive-security audit playbooks (40 modules) for codebases and Linux servers: detection signatures, PoC reproduction, remediation diffs, and fix-verification plans.
 * [Security Champions Playbook](https://github.com/c0rdis/security-champions-playbook)
 * [Security Guide for Web Developers](https://github.com/FallibleInc/security-guide-for-developers)
 * [A practical guide to build DAST with OWASP Zap](https://github.com/Soluto/owasp-zap-glue-ci-images)
