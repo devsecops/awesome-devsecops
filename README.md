@@ -222,6 +222,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [OWASP ZAP Node API](https://github.com/zaproxy/zap-api-nodejs)
 * [Progpilot](https://github.com/designsecurity/progpilot)
 * [PureSec (Serverless Security)](https://www.puresec.io/)
+* [RepoDoctor CI](https://github.com/BLCCoreStudio/RepoDoctor) - Repository health scoring and CI quality gates across security, testing, dependencies, documentation, configuration, and architecture.
 * [RetireJS](https://github.com/RetireJS/retire.js)
 * [RIPS](http://rips-scanner.sourceforge.net/)
 * [ShiftLeft Scan](https://slscan.io)
