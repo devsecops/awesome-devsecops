@@ -49,6 +49,8 @@ While we're not into the paper-way of doing things, sharing sound advice and goo
 * [A practical guide to build DAST with OWASP Zap](https://github.com/Soluto/owasp-zap-glue-ci-images)
 * [Introduction to security testing and tools](https://www.omerlh.info/2018/10/04/write-good-code-with-security-tests/)
 * [DevSecOps Hub](https://snyk.io/devsecops/)
+* [Startup Security Policies](https://github.com/TrazTech-Inc/startup-security-policies) - Open source security policy templates mapped to SOC 2 and ISO 27001 controls.
+* [Cloud Security Audit Scripts](https://github.com/TrazTech-Inc/cloud-security-audit-scripts) - Open source pre-audit cloud security assessment scripts for AWS, GCP, and Azure.
 
 
 ## Presentations
