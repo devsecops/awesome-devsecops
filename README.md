@@ -205,6 +205,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [Cohesion](https://secapps.com/cohesion)
 * [David](https://david-dm.org/)
 * [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper)
+* [DepWarden](https://depwarden.in) - free, anonymous SCA and SAST scanner (no account, no source upload). Exploitability-first prioritisation via CISA KEV + FIRST EPSS, typosquat/dependency-confusion detection, CycloneDX/SPDX SBOM and OpenVEX export.
 * [Gauntlt](http://gauntlt.org/)
 * [Hakiri](https://hakiri.io)
 * [HusckyCI](https://github.com/globocom/huskyci)
