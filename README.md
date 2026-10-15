@@ -116,6 +116,7 @@ It's important to build up knowledge by learning how to break applications left 
 * [OWASP Damn Vulnerable Serverless Application (DVSA)](https://github.com/owasp/dvsa) (AWS Serverless)
 * [OWASP Juice Shop](https://github.com/OWASP/glue) (NodeJS/Angular)
 * [RailsGoat](https://github.com/OWASP/railsgoat) (Rails)
+* [vulnerable-python](https://github.com/EyalSec/vulnerable-python) (Python/Flask)
 * [WebGoat](https://github.com/WebGoat/WebGoat) (Web App)
 * [WebGoat.Net](https://github.com/OWASP/WebGoat.NET) (.NET)
 * [WebGoatPHP](https://github.com/OWASP/OWASPWebGoatPHP) (PHP)
