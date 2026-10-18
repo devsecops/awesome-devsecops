@@ -243,6 +243,7 @@ There are many sources for Threat Intelligence in the world.  Some of these come
 * [Alien Vault OTX](https://otx.alienvault.com/)
 * [Critical Stack](https://intel.criticalstack.com)
 * [IBM X-Force](https://exchange.xforce.ibmcloud.com)
+* [ICHI - Internet Cyber Health Index](https://ichi.global/) - A free, publicly accessible, source-transparent daily Internet cyber-health barometer. Aggregates threat intelligence from 20+ news and telemetry feeds and surfaces the current global cyber health signal with direct evidence links.
 * [IntelMQ Feeds](https://github.com/certtools/intelmq-feeds-documentation)
 * [OpenTPX](https://www.opentpx.org)
 * [Passive Total](https://www.passivetotal.org)
