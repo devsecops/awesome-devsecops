@@ -201,6 +201,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [Brakeman](http://brakemanscanner.org)
 * [Checkov](https://github.com/bridgecrewio/checkov/)
 * [Chef Inspec](https://github.com/chef/inspec)
+* [CodeDelta](https://codedelta.app)
 * [Contrast Security](https://www.contrastsecurity.com)
 * [Cohesion](https://secapps.com/cohesion)
 * [David](https://david-dm.org/)
