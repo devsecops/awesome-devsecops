@@ -211,6 +211,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [Infer](http://fbinfer.com/)
 * [IronWASP](https://ironwasp.org/)
 * [kube-bench](https://github.com/aquasecurity/kube-bench)
+* [Loophole](https://github.com/rootsiemen/loophole)
 * [Lynis](https://cisofy.com/lynis/)
 * [microscanner](https://github.com/aquasecurity/microscanner)
 * [Node Security Platform](https://nodesecurity.io/)
