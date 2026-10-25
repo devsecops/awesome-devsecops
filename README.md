@@ -227,6 +227,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [ShiftLeft Scan](https://slscan.io)
 * [Snyk](https://snyk.io)
 * [SourceClear](https://www.sourceclear.com)
+* [SubdomainWatch](https://www.subdomainwatch.com) - Autonomous attack surface surveillance and Shift-Left Terraform GitHub Action that prevents dangling DNS records and subdomain takeovers before merge.
 
 
 ## Alerting
