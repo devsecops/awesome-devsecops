@@ -198,6 +198,7 @@ This list of tools provide the capabilities necessary for finding security anoma
 ## Testing
 Testing is an essential element of a DevSecOps program because it helps to prepare teams for Rugged operations and to determine security defects before they can be exploited.
 
+* [AuthWarden](https://github.com/manhnv-vnext/authwarden) - Sub-second, zero-dependency static scanner for API authorization flaws (BOLA/IDOR), Next.js Server Actions, active secrets, and reachability-aware CVEs.
 * [Brakeman](http://brakemanscanner.org)
 * [Checkov](https://github.com/bridgecrewio/checkov/)
 * [Chef Inspec](https://github.com/chef/inspec)
