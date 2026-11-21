@@ -207,6 +207,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper)
 * [Gauntlt](http://gauntlt.org/)
 * [Hakiri](https://hakiri.io)
+* [How Could I Be Hacked](https://github.com/sandhiveio/How-Could-I-Be-Hacked) - Helps review PR diffs using local checks adapted from open-source security reviews.
 * [HusckyCI](https://github.com/globocom/huskyci)
 * [Infer](http://fbinfer.com/)
 * [IronWASP](https://ironwasp.org/)
