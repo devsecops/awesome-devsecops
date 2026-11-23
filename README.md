@@ -210,6 +210,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [HusckyCI](https://github.com/globocom/huskyci)
 * [Infer](http://fbinfer.com/)
 * [IronWASP](https://ironwasp.org/)
+* [Kavach AI](https://github.com/rajrajak99/kavach-ai) - Autonomous sub-16ms AST security gate with 0% false positives and 1-click surgical PR suggestions.
 * [kube-bench](https://github.com/aquasecurity/kube-bench)
 * [Lynis](https://cisofy.com/lynis/)
 * [microscanner](https://github.com/aquasecurity/microscanner)
