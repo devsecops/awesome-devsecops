@@ -49,6 +49,7 @@ While we're not into the paper-way of doing things, sharing sound advice and goo
 * [A practical guide to build DAST with OWASP Zap](https://github.com/Soluto/owasp-zap-glue-ci-images)
 * [Introduction to security testing and tools](https://www.omerlh.info/2018/10/04/write-good-code-with-security-tests/)
 * [DevSecOps Hub](https://snyk.io/devsecops/)
+* [Verifying a public-facing API decoy](https://webdecoy.com/product/endpoints/#verify-your-decoy)
 
 
 ## Presentations
