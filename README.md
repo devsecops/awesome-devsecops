@@ -204,6 +204,7 @@ Testing is an essential element of a DevSecOps program because it helps to prepa
 * [Contrast Security](https://www.contrastsecurity.com)
 * [Cohesion](https://secapps.com/cohesion)
 * [David](https://david-dm.org/)
+* [dep-vet](https://github.com/nassih-yassine/Dep-Vet) - Pre-install dependency risk checks across nine ecosystems, with evidence links and an explicit incomplete result
 * [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper)
 * [Gauntlt](http://gauntlt.org/)
 * [Hakiri](https://hakiri.io)
